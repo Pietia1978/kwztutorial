@@ -1,2 +1,6 @@
 drugi test
+<<<<<<< HEAD
 zmiana w pliku
+=======
+zmiana w pliku po raz trzeci
+>>>>>>> nowaGalaz
