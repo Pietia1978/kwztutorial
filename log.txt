@@ -2701,3 +2701,3829 @@ Date:   Fri Mar 27 10:45:42 2015 +0100
 
  README.md | 2 ++
  1 file changed, 2 insertions(+)
+commit 54188b43b5ca2dd6bb4b25652369a8683de7880c
+Author: Golbez <palart2000@gmail.com>
+Date:   Wed Dec 25 18:57:01 2019 +0300
+
+    Artsiom's Commit
+
+ list.html   | 3 +++
+ s16550.html | 6 ++++++
+ 2 files changed, 9 insertions(+)
+
+commit 9c4a10e8e1fcb4bb3f1d13f23705427099185068
+Merge: 4e4efde df12902
+Author: sidletsky <9529998+sidletsky@users.noreply.github.com>
+Date:   Wed Dec 18 11:08:43 2019 +0100
+
+    Merge pull request #12 from Pietia1978/s17648
+    
+    S17648
+
+commit df129021f07058cf7b4ec98cd9e004e1ca1322a8
+Author: Pietia1978 <me@prank.com>
+Date:   Fri Dec 13 19:37:15 2019 +0100
+
+    s17648 was here.
+
+ list.html   | 2 ++
+ s17648.html | 9 +++++++++
+ 2 files changed, 11 insertions(+)
+
+commit d510a0f109f8d20aa84054956221fbba6ee96c91
+Author: Pietia1978 <me@prank.com>
+Date:   Fri Dec 13 19:29:07 2019 +0100
+
+    finally somebody added git ignore
+
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 4e4efdeaf58b02e9ccf3c1a577a7ba83bb57daf4
+Author: Mateusz Smolik <msmolik@smi.pl>
+Date:   Mon Dec 9 14:09:21 2019 +0100
+
+    Ex 1, part 2
+
+ list.html   |  1 +
+ s11413.html | 13 +++++++++++++
+ 2 files changed, 14 insertions(+)
+
+commit e17efef1f204ccb4d70e01d37c194ed36eb7e641
+Author: dejad <ddeja@craftware.biz>
+Date:   Tue Oct 22 09:27:26 2019 +0200
+
+    Update list and add my own custom html file
+
+ list.html   | 2 ++
+ s12898.html | 6 ++++++
+ 2 files changed, 8 insertions(+)
+
+commit 9604ad1daf0a278cbc9f9a8e12c7f8ebeb8ba02f
+Author: Andrii Korzhov <s19910@pjwstk.edu.pl>
+Date:   Tue Jun 18 16:14:26 2019 +0200
+
+    list update
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit be7fabd50ed4a8a8b6f4031331bef98ff992c527
+Author: s13814 <s13814@pjwstk.edu.pl>
+Date:   Tue Jun 18 00:46:36 2019 +0200
+
+    Michał Skotnicki s13814 dodano plik s13814.html i zmodyfikowano plik
+    list.html
+
+ list.html   | 1 +
+ s13814.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 2d677c6bfdb7be1fb0485a7cca6b64d1751afaae
+Author: Chris <s12692@pjwstk.edu.pl>
+Date:   Sun Jun 16 17:01:05 2019 +0200
+
+    added s12692
+
+ list.html   | 1 +
+ s12692.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 599b4c9dd0ce777955038d7443e4b9dc23f07673
+Author: Maciej Sadoś <s14051@pjwstk.edu.pl>
+Date:   Tue Jun 11 13:56:12 2019 -0700
+
+    Maciej Sadoś s14051
+
+ list.html   | 1 +
+ s14051.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 22bd039efa495f0a79b7e48a7917c322617fcfb1
+Author: Andrii Korzhov <s19910@pjwstk.edu.pl>
+Date:   Tue Jun 11 17:02:37 2019 +0200
+
+    initial commit
+
+ s19910.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 9e8e09a32394ce9a123551281efded39fa29c63e
+Author: Volodymyr Sorin <s19303@pjwstk.edu.pl>
+Date:   Tue Jun 11 16:48:25 2019 +0200
+
+    Volodymyr Sorin commit1
+
+ list.html   | 1 +
+ s19303.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 4c48cf874d863d21a46cace528463fa993207642
+Author: Michał Matuszewski <s12952@pjwstk.edu.pl>
+Date:   Tue Jun 11 16:37:40 2019 +0200
+
+    cwGit
+
+ list.html   | 1 +
+ s12952.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 052db7b0c3eb808ebda7cd4743dabddf0234b701
+Author: Piotr Dominowski <s13187@pjwstk.edu.pl>
+Date:   Tue Jun 11 16:19:08 2019 +0200
+
+    Dodaje s13187.html
+
+ list.html   | 2 +-
+ s13187.html | 3 +++
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+
+commit 58b53aa8b24644efba95c84f97e1d1d3d9430295
+Author: Hubert Miecznikowski <s12997@pjwstk.edu.pl>
+Date:   Tue May 28 16:44:29 2019 +0200
+
+    iksDE
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d743e498bdb65da87e024ab4db4220b6b97a70cc
+Merge: e5840f4 64eccd8
+Author: Hubert Miecznikowski <s12997@pjwstk.edu.pl>
+Date:   Tue May 28 16:41:20 2019 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit e5840f48df71d0c7d5ec3a6206a71189c76a9241
+Author: Hubert Miecznikowski <s12997@pjwstk.edu.pl>
+Date:   Tue May 28 16:41:05 2019 +0200
+
+    commit dX
+
+ plik jakikolwiek.txt | 1 +
+ s12997.html          | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 64eccd8a78543f203fc83846328307167a58103f
+Author: Sebastian Strzemiński <s14365@pjwstk.edu.pl>
+Date:   Tue May 28 16:38:05 2019 +0200
+
+    Changed list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 279a25a73a3801d302eb661e1df611f47e285374
+Merge: 3abb305 a2d649c
+Author: Sebastian Strzemiński <s14365@pjwstk.edu.pl>
+Date:   Tue May 28 16:36:54 2019 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 3abb305f73a96c0d91a2e2784e0f34ff1dbe1fb0
+Author: Sebastian Strzemiński <s14365@pjwstk.edu.pl>
+Date:   Tue May 28 16:36:25 2019 +0200
+
+    Added student number and file
+
+ JakisPlikDodatkowys14365.txt | 0
+ s14365.html                  | 1 +
+ 2 files changed, 1 insertion(+)
+
+commit a2d649cc8e5c49930678a0367b257f4b790dba50
+Author: MaciejG <12821744+Rodriqez@users.noreply.github.com>
+Date:   Tue May 28 16:28:04 2019 +0200
+
+    com1
+
+ list.html   | 2 +-
+ s14120.html | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 6c6740e2484ceeeadcde58647c645656ed2f998d
+Author: Krzysztof Maciaszek <s13280@pjwstk.edu.pl>
+Date:   Tue May 21 16:30:36 2019 +0200
+
+    s13280
+
+ list.html   | 4 ++++
+ s13280.html | 1 +
+ 2 files changed, 5 insertions(+)
+
+commit ac3f266c22bfac34b10e3a3926bb9465cf8a5b9b
+Author: Zygmunt Żardecki <s12743@pjwstk.edu.pl>
+Date:   Tue May 21 16:25:53 2019 +0200
+
+    Zygmunt Żardecki
+
+ list.html   | 3 +--
+ s12743.html | 3 +++
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 1f8db4d1f8ff33c5a5bc076d3bfe8c4076cb7c02
+Merge: 5d5dd12 2401e9c
+Author: Marcin Lewandowski <s20082@pjwstk.edu.pl>
+Date:   Tue May 14 17:07:10 2019 +0200
+
+    konlikty
+
+commit 2401e9c818ae71d50e42f32fcec63724bec36cde
+Author: Bartosz Barnat <s13822@pjwstk.edu.pl>
+Date:   Tue May 14 17:04:47 2019 +0200
+
+    dodano s13822 Bartosz Barnat
+
+ list.html   | 1 +
+ s13822.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 5d5dd124af562927b621d20a013cbd55b4965f12
+Author: Marcin Lewandowski <s20082@pjwstk.edu.pl>
+Date:   Tue May 14 17:03:21 2019 +0200
+
+    Marcin Lewandowski
+
+ list.html   | 1 +
+ s20082.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 49ff82d4e845e21b14abd55593f8467a5e59bb9c
+Author: Jakub Mazurek <jakubmazurek@jakubmazurek.pl>
+Date:   Sun Apr 14 23:46:31 2019 +0200
+
+    add s20104
+
+ list.html   |  1 +
+ s20104.html | 67 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 68 insertions(+)
+
+commit 0fb63887176290491ae525ef08ad2b2ec07b94bf
+Author: Maciek <maciekbajor@gmail.com>
+Date:   Thu Feb 14 20:12:16 2019 +0100
+
+    add s16402
+
+ list.html   | 1 +
+ s16402.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit ee65664bd3c1ec1cc28fc3c7e7306550c2e1b8ab
+Author: Damian Chodkowski <damian.chodkowski@pl.pwc.com>
+Date:   Thu Feb 14 11:16:31 2019 +0000
+
+    added s11742
+
+ list.html   | 2 ++
+ s11742.html | 1 +
+ 2 files changed, 3 insertions(+)
+
+commit 4925b60e6fc65de06a1196f9598a16a5640d6419
+Merge: a1226d3 5e77b23
+Author: s18246@pjwstk.edu.pl <s18246@pjwstk.edu.pl>
+Date:   Wed Feb 13 11:07:36 2019 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 5e77b237fa203a87461fdc38d35489c9d1c1dcbd
+Author: Zuchens <paulina.zak1@gmail.com>
+Date:   Tue Feb 12 10:35:06 2019 -0800
+
+    s18257
+
+ list.html   | 1 +
+ s18257.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit a1226d37b11be6bf611adf5d4954d22422e753cc
+Author: s18246 <s18246@pjwstk.edu.pl>
+Date:   Tue Feb 12 08:56:22 2019 +0100
+
+    s18246
+
+ list.html   | 1 +
+ s18246.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 135cb2dd8b4dcb97f7499ee8bc0666d3cf550502
+Author: Damian Reszuta <reszuta.damian@gmail.com>
+Date:   Mon Feb 11 20:24:02 2019 +0100
+
+    changed
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 6d634eff7d4064dd6c96953254b25d7c6c1604f7
+Author: Damian Reszuta <reszuta.damian@gmail.com>
+Date:   Mon Feb 11 20:22:27 2019 +0100
+
+    ok
+
+ s17399.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 012ca4c1e03146857b3b5bf24b6bdd9a3654a679
+Author: adamSzafranski <45870072+adamSzafranski@users.noreply.github.com>
+Date:   Mon Feb 11 18:41:13 2019 +0000
+
+    Delete nowy_plik
+
+ nowy_plik | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 50974a00f104fd80a3a0f3ae94912e618fa1655b
+Author: adamSzafranski <45870072+adamSzafranski@users.noreply.github.com>
+Date:   Mon Feb 11 18:40:18 2019 +0000
+
+    Create nowy_plik
+
+ nowy_plik | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 87b5a9424f3fa59fcfaea93c7e2d9478eb971185
+Author: adamSzafranski <45870072+adamSzafranski@users.noreply.github.com>
+Date:   Mon Feb 11 18:35:54 2019 +0000
+
+    Update list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 13cd93ae16d9b37ceff47d413ed22bff27ce6858
+Author: adamSzafranski <45870072+adamSzafranski@users.noreply.github.com>
+Date:   Mon Feb 11 18:32:05 2019 +0000
+
+    Create s18259.html
+
+ s18259.html | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 933f595723b10222d6e38d9fa3ed1fc244896274
+Author: ab4rdo <fryderyk97@gmail.com>
+Date:   Sun Feb 3 22:46:02 2019 +0100
+
+    s15871 added
+
+ list.html   | 1 +
+ s15871.html | 6 ++++++
+ 2 files changed, 7 insertions(+)
+
+commit 3d31a57c48bc38fe7d4cab6676b1cb7effb318eb
+Author: ab4rdo <fryderyk97@gmail.com>
+Date:   Sun Feb 3 22:43:15 2019 +0100
+
+    go back
+
+ list.html   | 1 -
+ s15871.html | 1 -
+ 2 files changed, 2 deletions(-)
+
+commit 6a7b11d4d8712b4c1391e3c9434eb1b1926ee5f3
+Author: ab4rdo <linoskoczek@protonmail.com>
+Date:   Sun Feb 3 22:33:28 2019 +0100
+
+    Fryderyk Penkala a bit late
+
+ list.html   | 1 +
+ s15871.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit e83456743fef9a95fc3fcc9a1dbc997e3a833ffd
+Author: Angelika Owczarek <angelika.owczarek@gmail.com>
+Date:   Sat Feb 2 02:05:23 2019 +0100
+
+    remove unnecessary file
+
+ nowy_plik.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e37f130a2e21625419e52e92d36e0ad160d3c54c
+Author: Angelika Owczarek <angelika.owczarek@gmail.com>
+Date:   Sat Feb 2 02:04:34 2019 +0100
+
+    add data for s18261
+
+ list.html      | 1 +
+ nowy_plik.html | 0
+ s18261.html    | 1 +
+ 3 files changed, 2 insertions(+)
+
+commit 05b9427ee6c0756f8132ee0c830d7b790d25384b
+Author: S9379992 <svetlanazagorulko95@gmail.com>
+Date:   Thu Jan 31 16:42:46 2019 +0100
+
+    mycommit
+
+ .DS_Store   | Bin 0 -> 18436 bytes
+ list.html   |   1 +
+ s15579.html |   1 +
+ 3 files changed, 2 insertions(+)
+
+commit da347c2f755822f43e8780ff1028bb9c0d1011ad
+Merge: 52d52bc c61501b
+Author: rynkat <kathrinett@gmail.com>
+Date:   Thu Jan 31 15:34:39 2019 +0100
+
+    marquee mmmm
+
+commit c61501b27d55ab52e375df3736bd324836be66b9
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Tue Jan 29 15:01:40 2019 +0100
+
+    funny
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 301c4752e0f888d3bbaff32d69e28ab866bd4e22
+Merge: 35c249a 57257b7
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Tue Jan 29 14:52:02 2019 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 35c249ac36585e09627607efe2a8e8f2426e3619
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Tue Jan 29 14:50:01 2019 +0100
+
+    I'm stupid
+
+ s15486.html | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit 52d52bce0322f5712f2468994d5fe1a74c92f629
+Author: rynkat <kathrinett@gmail.com>
+Date:   Tue Jan 29 14:40:21 2019 +0100
+
+    s15384
+
+ list.html   |  1 +
+ s15384.html | 20 ++++++++++++++++++++
+ 2 files changed, 21 insertions(+)
+
+commit 57257b7e6c459529feccf7ec19247251f97e8354
+Author: Kris <Kris@Kriss-MacBook-Pro.local>
+Date:   Tue Jan 29 02:42:28 2019 +0100
+
+    Edited link to my file
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit e94fda9ab752272d5087a4831eb599a438f0f32a
+Author: Kris <Kris@Kriss-MacBook-Pro.local>
+Date:   Tue Jan 29 02:34:13 2019 +0100
+
+    Adding myself, Krzysztof Sułek s15234
+
+ list.html   | 16 ++++++++--------
+ s15234.html |  2 ++
+ 2 files changed, 10 insertions(+), 8 deletions(-)
+
+commit 9d33e94b8612cfcef752ea93d0ed850695a67e9a
+Author: Zaichenko <s15780@pjwstk.edu.pl>
+Date:   Mon Jan 28 15:12:52 2019 +0100
+
+    s15780
+
+ list.html   | 277 ++++++++++++++++++++++++++++++------------------------------
+ s15780.html |  68 +++++++++++++++
+ 2 files changed, 207 insertions(+), 138 deletions(-)
+
+commit 1c7145b5fa24d2297a95bf0519ecc362021cd177
+Author: Artur Mikolajewski <amikol93@gmail.com>
+Date:   Tue Jan 22 20:34:26 2019 +0100
+
+    s16293 Artur Mikolajewski
+
+ list.html   | 1 +
+ s16293.html | 6 ++++++
+ 2 files changed, 7 insertions(+)
+
+commit 2e7522952e3f8dbc49ddd3188315ca7ad3c09e23
+Author: Alicja Koper <asuszwedyk@gmail.com>
+Date:   Sun Jan 20 20:51:58 2019 +0100
+
+    Update list
+
+ list.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 3fe50f996c2d6b7f39791843632dd8d7e5406e07
+Author: Alicja Koper <asuszwedyk@gmail.com>
+Date:   Sun Jan 20 20:50:31 2019 +0100
+
+    Add s17900 html file
+
+ s17900.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit c641cf8aa25d3e2984b18fd911bb5b73e33e8e2d
+Author: Azizbek Tashpulatov <s16225@pjwstk.edu.pl>
+Date:   Thu Jan 17 16:19:11 2019 +0100
+
+    commited
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 07afcad9cb1e665f1df2b868a37834340d65a7dd
+Author: Azizbek Tashpulatov <s16225@pjwstk.edu.pl>
+Date:   Thu Jan 17 16:16:52 2019 +0100
+
+    commited
+
+ s16225.html | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit c99d380c111283006c1fa2efe8d13fbbfbd855a6
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Thu Jan 17 13:30:49 2019 +0100
+
+    added href
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit ef5fafc38d405b4326d160d9c3098aef40d47ab7
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Thu Jan 17 13:29:05 2019 +0100
+
+    added href
+
+ kwztutorial |  1 +
+ s15486.html | 12 ++++++++++++
+ 2 files changed, 13 insertions(+)
+
+commit bad8055f22f58f4e0a3a7b3d9eee45dca2955f71
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Thu Jan 17 13:15:13 2019 +0100
+
+    changed test2
+
+ test2.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit e6c8a9977d84aa3264f61bb926b8521c884a2611
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Thu Jan 17 13:13:46 2019 +0100
+
+    added another testing file
+
+ test2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 42bf1be0ed3588842feb4197f65514d222e91071
+Author: lacrit <lacrit.pravis@gmail.com>
+Date:   Thu Jan 17 13:13:03 2019 +0100
+
+    test file added
+
+ test.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit e44f1c778c384e9c55cd31619a324210ed5659eb
+Author: Marcin Galinski <marcin.g@IPOPEMA.LOCAL>
+Date:   Wed Jan 16 22:31:07 2019 +0100
+
+    s17938 commit
+
+ list.html   | 1 +
+ s17938.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 952b25c2cca82b84bbeb3edc77d86e053cc3fffc
+Author: marek <marek.grzeszkiewicz@gmail.com>
+Date:   Tue Jan 15 22:26:44 2019 +0100
+
+    kwz changes
+
+ list.html   | 2 +-
+ s16626.html | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit b453c26d9c7650f78a742ad9072d4b7b80dddac7
+Author: mbroler <michal.broler@rtbhouse.com>
+Date:   Sat Jan 12 13:46:32 2019 +0100
+
+    Michał Broler added
+
+ list.html   | 3 ++-
+ s17885.html | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 57d09b40a74f7b64474e5826f617610bcec8ce24
+Author: Lukasz Nowakowski <nowakowskilukasznl@gmail.com>
+Date:   Thu Jan 10 18:33:37 2019 +0100
+
+    commmit s17935
+
+ list.html   | 3 +++
+ s17935.html | 1 +
+ 2 files changed, 4 insertions(+)
+
+commit 2cf206cb98b1f3a7ab7141aa5c1ed2e848c48870
+Author: Maksym Babilunha <babilunha2@gmail.com>
+Date:   Thu Jan 10 17:11:46 2019 +0100
+
+    list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 8882d1d1d052bdc2e4d761c59c4fae9a88a7c8c7
+Author: Maksym Babilunha <babilunha2@gmail.com>
+Date:   Thu Jan 10 17:07:15 2019 +0100
+
+    s15442.html commit
+
+ s15442.html | 116 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 116 insertions(+)
+
+commit 878146a0f3512fa0e7456556e7c53e6245f77ffa
+Merge: b8b12d5 8cc0a53
+Author: Amatheos <44970824+Amatheos@users.noreply.github.com>
+Date:   Thu Jan 10 16:45:15 2019 +0100
+
+    Merge
+
+commit b8b12d5baf7d853341790cfef27e64f20c41ee57
+Author: Amatheos <44970824+Amatheos@users.noreply.github.com>
+Date:   Thu Jan 10 16:40:03 2019 +0100
+
+    Merge
+
+ list.html   | 1 +
+ s19305.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 8cc0a53913fc0fc2ec221ed761e58f92145a5f42
+Author: Justyna Baranowska <s11579@pja.edu.pl>
+Date:   Thu Jan 10 16:33:09 2019 +0100
+
+    add Justyna Baranowska file and link
+
+ list.html   | 3 ++-
+ s11579.html | 8 ++++++++
+ 2 files changed, 10 insertions(+), 1 deletion(-)
+
+commit df2ccf1151b71417183fc130e4a900718f9237b0
+Author: s13927 <s13927@pjwstk.edu.pl>
+Date:   Thu Jan 10 16:08:04 2019 +0100
+
+    13927 KWZ 1 Marcin Krużewski
+
+ list.html   | 1 +
+ s13927.html | 6 ++++++
+ 2 files changed, 7 insertions(+)
+
+commit 75eaed2174074b9a39a454275cbd2940019ccf93
+Author: ihor_debelyi <s15293@pjwstk.edu.pl>
+Date:   Thu Jan 10 16:01:34 2019 +0100
+
+    added myself
+
+ list.html   | 5 +++--
+ s15293.html | 2 ++
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+
+commit f52812cea7e84ea0cbc22303b42d9d338daa75de
+Author: ITseagull <irynalegusha@gmail.com>
+Date:   Wed Dec 26 18:34:12 2018 +0200
+
+    update 15123
+
+ list.html   | 5 ++++-
+ s15123.html | 2 ++
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+
+commit 75b772521e18e42764d7785f55a6714a28387d39
+Author: DeBaGGeeR <44878769+DeBaGGeeR@users.noreply.github.com>
+Date:   Tue Dec 25 12:54:59 2018 +0100
+
+    modified list with s16227
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 498fc5643fce1c2b26c07c2f8d5bb3de0480468e
+Author: DeBaGGeeR <44878769+DeBaGGeeR@users.noreply.github.com>
+Date:   Tue Dec 25 12:53:51 2018 +0100
+
+    Bakhodir Ibragimov s16227
+
+ s16227.html | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 3e617b2211e890052e419cb45a596711616e136f
+Merge: 93f5282 418269d
+Author: Hüseyin Cem Ateş <cemates@me.com>
+Date:   Tue Dec 25 01:37:21 2018 +0300
+
+    Merge pull request #9 from Pietia1978/s13869
+    
+    S13869
+
+commit 418269d50dbfdaa5e7430c957f246fd0b0efcd7f
+Author: Hüseyin Cem Ateş <cemates@me.com>
+Date:   Mon Dec 24 23:35:52 2018 +0100
+
+    s13869
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 93f5282a7be29f94df728fc433fa32815f66b56a
+Author: Mehmet KONUK <mehmetkonuk91@gmail.com>
+Date:   Mon Dec 24 19:40:36 2018 +0100
+
+    modify and add my file
+
+ list.html   |  3 +-
+ s13108.html | 96 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 98 insertions(+), 1 deletion(-)
+
+commit 846d7cf71565ee383f584fea4e876a6f805c0b04
+Author: conductorsha <36835636+conductorsha@users.noreply.github.com>
+Date:   Fri Dec 21 21:41:49 2018 +0100
+
+    changes made by Taras Buchynskyi
+
+ list.html   | 2 +-
+ s15758.html | 0
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit eef35929fe35348bfddb5979556b5c75685d99b4
+Author: Grelus <s13720@pjwstk.edu.pl>
+Date:   Thu Dec 20 23:50:50 2018 +0100
+
+    I forgot to add list.html to tracked files
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 6fa1a3bac1c727c69400fcb3eefa8b744ba5aa01
+Author: Grelus <s13720@pjwstk.edu.pl>
+Date:   Thu Dec 20 23:30:39 2018 +0100
+
+    s13720 im here
+
+ s13720.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 67a486719632ff324b083b8117b80a617060ca67
+Author: Hüseyin Cem Ateş <cemates@me.com>
+Date:   Thu Dec 20 22:46:49 2018 +0100
+
+    s13869 initial commit
+
+ list.html   |  2 +-
+ s13869.html | 17 +++++++++++++++++
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+
+commit 30c7c20378190a2b4e8dc9d55d9d97e00b697256
+Author: Phil25 <Phil25@ProtonMail.com>
+Date:   Thu Dec 20 19:21:29 2018 +0100
+
+    Fixed crept-in diff syntax
+
+ list.html | 6 +-----
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+
+commit 8dbc7bb29e174c29a1153ec23bfb25c8cd0a4635
+Author: Phil25 <Phil25@ProtonMail.com>
+Date:   Thu Dec 20 19:17:19 2018 +0100
+
+    Filip Tomaszewski s15403
+
+ list.html   | 3 ++-
+ s15403.html | 2 ++
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+
+commit ed4e35dd20c4195b0b4248754299f8002deb6ea1
+Merge: 5957d41 67400c8
+Author: Maciej Adamczyk <adamczyk.maciej01@gmail.com>
+Date:   Thu Dec 20 16:56:34 2018 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 67400c81946b2b743f012d1f6bde90e8b67950c0
+Merge: c52cccd 29ba923
+Author: romanripper <romanbat99@gmail.com>
+Date:   Thu Dec 20 12:51:17 2018 +0100
+
+    solved conflict in list.html
+
+commit c52cccd415eaa986ecb94852a6396173aae46152
+Author: romanripper <romanbat99@gmail.com>
+Date:   Thu Dec 20 12:45:03 2018 +0100
+
+    added new file s15440.html and updated file list.html
+
+ list.html   |  1 +
+ s15440.html | 10 ++++++++++
+ 2 files changed, 11 insertions(+)
+
+commit 29ba923a90d848f2cb657a31918bb145b43d30cd
+Merge: b109372 045a8e7
+Author: MaksymenkA <s15395@pjwstk.edu.pl>
+Date:   Thu Dec 20 12:45:08 2018 +0200
+
+    file list.html is changed
+
+commit 045a8e72acf02fce79fae5384ef19165feda91cb
+Author: Phil25 <phil25@protonmail.com>
+Date:   Thu Dec 20 11:20:40 2018 +0100
+
+    updated
+
+ s15237.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b666af6a238c7827d4cbca86d32557689d6530b8
+Author: linoskoczek <linoskoczek@protonmail.com>
+Date:   Thu Dec 20 10:49:06 2018 +0100
+
+    s15237
+
+ list.html   | 3 ++-
+ s15237.html | 9 +++++++++
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+
+commit b109372881edd7fd010c581cb3c158634c7e1ced
+Author: MaksymenkA <s15395@pjwstk.edu.pl>
+Date:   Wed Dec 19 17:13:31 2018 +0200
+
+    file list.html is changed
+
+ list.html | 373 +++++++++++++++++++++++++++++++-------------------------------
+ 1 file changed, 187 insertions(+), 186 deletions(-)
+
+commit 0257ae0fb1587c4a96c9b78d443285ba7542e611
+Author: MaksymenkA <s15395@pjwstk.edu.pl>
+Date:   Wed Dec 19 17:09:32 2018 +0200
+
+    file s15395.html is added
+
+ s15395.html | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 5957d41cc02ea419450e511c3a8f57661bdf176c
+Author: Maciej Adamczyk <adamczyk.maciej01@gmail.com>
+Date:   Sat Dec 15 17:53:10 2018 +0100
+
+    Added s15170
+
+ list.html   | 1 +
+ s15170.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 53a85e5beeebfb52c69092ff2d6d04bcd8669d7e
+Author: totoczko <m.toloczko1@gmail.com>
+Date:   Fri Dec 14 21:03:08 2018 +0100
+
+    dodanie s17108 do listy
+
+ list.html   | 373 ++++++++++++++++++++++++++++++------------------------------
+ s17108.html |   0
+ 2 files changed, 189 insertions(+), 184 deletions(-)
+
+commit 4a7bf85fbe7e76027bbd7c84a3e4ffbc875e1577
+Author: M G <s10552@pjwstk.edu.pl>
+Date:   Mon Nov 26 21:17:46 2018 +0100
+
+    Updated list with link to my file. - MG
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit e4bf681eb8f45b354c83154736b4f16e5dd021d7
+Author: M G <s10552@pjwstk.edu.pl>
+Date:   Mon Nov 26 20:53:20 2018 +0100
+
+    Added Myself - MG
+
+ s10552.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 75d97a108b2f1ebb4da699f88d3f7778c3d8a136
+Author: janejsmund <jan.ejsmund@gmail.com>
+Date:   Mon Nov 26 19:45:19 2018 +0100
+
+    Added s18040.
+
+ list.html   | 1 +
+ s18040.html | 3 +++
+ 2 files changed, 4 insertions(+)
+
+commit 49cb4e9088cea1b48cbe710af0a391f0346e05b1
+Author: Łukasz Pluta <s16811@pjwstk.edu.pl>
+Date:   Sun Nov 18 15:08:04 2018 +0100
+
+     On branch master
+
+ list.html   | 1 +
+ s16811.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit d68509ab7036faa3824937bcf9d6e81f8fcf90ef
+Author: Gabriel <gabrielpiwnik@gmail.com>
+Date:   Sat Nov 17 20:58:42 2018 +0100
+
+    commit s8042
+
+ list.html   | 1 +
+ s18042.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 9b3ccfc6b2ab7c2f67a378a876a7b9b9cd10cd78
+Author: Anh Tuan Nguyen <tony.anhtuan.nguyen@gmail.com>
+Date:   Sat Nov 17 20:41:23 2018 +0100
+
+    s18119 zaliczenie
+
+ list.html   | 1 +
+ s18119.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 3f8f96f0a3744772c38733972631d43290e17889
+Author: Kamil Dzieniszewski <kamil.dzieniszewski@daftcode.pl>
+Date:   Sat Nov 17 15:22:23 2018 +0100
+
+    zaliczenie zajęć
+
+ .list.html.swp | Bin 16384 -> 0 bytes
+ list.html      |   1 +
+ s16979.html    |   1 +
+ 3 files changed, 2 insertions(+)
+
+commit a4a1bcd8fd91456045f183cfaad7f4ff985d84d6
+Author: bartoseb@gmail.com <bartoseb@gmail.com>
+Date:   Thu Nov 15 22:25:50 2018 +0100
+
+    added s14415 student
+
+ list.html   | 3 ++-
+ s14415.html | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 7fab240a7289fd9fb78713df5649511d6b425ffc
+Author: Thomas <s11509@pjwstk.edu.pl>
+Date:   Thu Nov 1 12:12:14 2018 +0100
+
+    s11509 added
+
+ list.html   | 1 +
+ s11509.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 7fb8b719e3e525fe026460a3b7fef36345f07b7f
+Author: Tomasz Banach <s17746@pjwstk.edu.pl>
+Date:   Sun Oct 28 15:50:47 2018 +0100
+
+    dodanie s18133
+
+ list.html   | 1 +
+ s18133.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 75b8257113d9344e6585f168f59da83d5e87cc27
+Author: Tomasz Banach <s17746@pjwstk.edu.pl>
+Date:   Sun Oct 28 15:47:33 2018 +0100
+
+    dodanie s17504 do listy
+
+ list.html   | 1 +
+ s17504.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit cc2ae79750942738064d4615832a31e275612c2e
+Author: Tomasz Banach <s17746@pjwstk.edu.pl>
+Date:   Sun Oct 28 15:42:44 2018 +0100
+
+    Nowy commit
+
+ s17543.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 743fd06e770418c2d664bc7f7e3f2b59d2da7b81
+Author: Tomasz Banach <s17746@pjwstk.edu.pl>
+Date:   Sun Oct 28 15:38:39 2018 +0100
+
+    Oto nowy commit ze zmodyfikowanym plikiem list.html
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 98ff9a656f109eb4065ff10be5236b220b6617b4
+Author: Tomasz Banach <s17746@pjwstk.edu.pl>
+Date:   Sun Oct 28 15:36:15 2018 +0100
+
+    Oto nowy commit
+
+ s17746.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d93722bf9d533a9f31d6f915db2afa4522baec38
+Author: dalgim <dalgiewiczmateusz@gmail.com>
+Date:   Sun Oct 28 14:59:16 2018 +0100
+
+    Dodanie danych do pliku s17398.html
+
+ s17398.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 4b3d4e23110a738a2cc805d3538728bf3ab99fcd
+Author: dalgim <dalgiewiczmateusz@gmail.com>
+Date:   Sun Oct 28 14:58:16 2018 +0100
+
+    Dodanie linka do s17398 w list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1e8f5dbf8420fb4e845c5668f113d40eacdb7586
+Author: dalgim <dalgiewiczmateusz@gmail.com>
+Date:   Sun Oct 28 14:57:00 2018 +0100
+
+    Dodanie pliku s17398
+
+ s17398.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3d7365899f77c53b9d3ffac072be94b626a4d407
+Author: Jarek <jarek.liszewski@gmail.com>
+Date:   Sun Oct 28 13:52:28 2018 +0100
+
+    s12111 Jarosław Liszewski
+
+ list.html   |  1 +
+ s12111.html | 13 +++++++++++++
+ 2 files changed, 14 insertions(+)
+
+commit e59e77d7885adc89bc3f064ab445ba31b9ac91aa
+Author: unknown <s17807@pjwstk.edu.pl>
+Date:   Sun Oct 21 10:39:43 2018 +0200
+
+    s17807 proper commit
+
+ list.html   | 3 ++-
+ s17807.html | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 11b48f8ed414d3cd684cd4155ebd23fdb66c989e
+Author: michal <msadowski.ib@gmail.com>
+Date:   Wed Oct 17 19:34:34 2018 +0200
+
+    Michal Sadowski
+
+ list.html   | 1 +
+ s17983.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 0052196006340ed05f5c4e58ed82d813528c0fca
+Author: Marunio901 <patryk.kosinski@gmail.com>
+Date:   Sat Oct 13 12:40:39 2018 +0200
+
+    Add Patryk Kosinski
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit af5093acffc5581fd9de445753a7bc3877cbb0b9
+Author: Marunio901 <patryk.kosinski@gmail.com>
+Date:   Sat Oct 13 12:39:48 2018 +0200
+
+    Add list.html
+
+ list.html | 178 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 178 insertions(+)
+
+commit 3c0eec759b5e188c807e98ce4017cbeda1a616cd
+Merge: 3055d91 b724523
+Author: Marunio901 <patryk.kosinski@gmail.com>
+Date:   Sat Oct 13 12:34:17 2018 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit b724523e990b7c579c80673166c52dbaa57f825e
+Author: Przemek Latoch <przemek.latoch@gmail.com>
+Date:   Mon Oct 8 18:09:38 2018 +0200
+
+    Update list.html file with student s14889
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 81d2b58ed76ee60cda8ed25c5a8f2f18a8efe5ca
+Author: Przemek Latoch <przemek.latoch@gmail.com>
+Date:   Mon Oct 8 18:08:23 2018 +0200
+
+    Add s14889.html student file
+
+ s14889.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3055d9171c87ea0d74c0df7dd87712a353e7e34c
+Author: Marunio901 <patryk.kosinski@gmail.com>
+Date:   Sat Oct 6 13:46:50 2018 +0200
+
+    Aded Patryk Kosinski
+
+ list.html   | 2 ++
+ s15019.html | 2 ++
+ 2 files changed, 4 insertions(+)
+
+commit 467fcf72389607afaa502635cd08e792805a97cb
+Author: Kamil Konarski <s16671@pjwstk.edu.pl>
+Date:   Wed Oct 3 22:10:57 2018 +0200
+
+    added s16671 to list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 8d5e8abf0da4be7bfd9b613bdc8e943e3f4c405a
+Author: Kamil Konarski <s16671@pjwstk.edu.pl>
+Date:   Wed Oct 3 22:06:51 2018 +0200
+
+    s16671.html created
+
+ s16671.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 653cc87555ba3ca599f9a248f006e8ed18d8f653
+Author: s16589 <s16589@pjwstk.edu.pl>
+Date:   Sun Sep 30 17:19:10 2018 +0200
+
+    s16589
+
+ list.html   | 1 +
+ s16589.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 3d31443c0126dda8aa7ca1a2a9403a439cc46b0d
+Author: adam <adam.kedziora202@gmail.com>
+Date:   Sun Sep 30 15:23:59 2018 +0200
+
+    add s16812
+
+ list.html   | 1 +
+ s16812.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit c52984c49a60f754f40aa3dd484fb07946626975
+Author: Dajana <dajana.0@vp.pl>
+Date:   Sun Sep 30 14:52:57 2018 +0200
+
+    Dajana Kubica
+
+ list.html   | 3 +++
+ s11577.html | 1 +
+ 2 files changed, 4 insertions(+)
+
+commit d0f31d109d3c7c2c9665d467d5e5fb996f798da0
+Author: Alicja <alicja.anna@hotmail.com>
+Date:   Fri Apr 27 16:33:02 2018 +0200
+
+    Modyfikacja listy
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 58eb5989ffe9f07272ce5624a384ff3b1af3bdbe
+Author: Alicja <alicja.anna@hotmail.com>
+Date:   Fri Apr 27 16:28:08 2018 +0200
+
+    Dodanie pliku s17669
+
+ s17669.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit fb7e206a2da95c174b34120c0bc458a27abe5bba
+Author: Pawel Wojtasiak <s12963@pjwstk.edu.pl>
+Date:   Fri Apr 27 16:18:40 2018 +0200
+
+    Created s12963 file, changed list
+
+ list.html   | 1 +
+ s12963.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 4c249b7c1179ad6c42a139454c5f65480f518186
+Author: marasimowicz <michal.arasimowicz@gmail.com>
+Date:   Mon Apr 23 15:47:33 2018 +0200
+
+    s12760 commit
+
+ s12760.html | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit c194be82b403c3f9930a8b8e671e595bd47411d7
+Author: marasimowicz <michal.arasimowicz@gmail.com>
+Date:   Mon Apr 23 15:44:10 2018 +0200
+
+    s12760 commit
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f12045bdd9122a9d89d5914a8f8ca439687bb488
+Author: Wojciech Strzelecki <strzelecki.wojciech@outlook.com>
+Date:   Mon Apr 23 15:10:39 2018 +0200
+
+    s13329 commit
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 5ffd1e33c6b24ae730d38dc10d0a45cce06c776d
+Author: Czaro <cexarcs@gmail.com>
+Date:   Sun Apr 22 12:07:31 2018 +0200
+
+    kwz s13175
+
+ list.html   |  2 +-
+ s13175.html | 13 +++++++++++++
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+
+commit e7be49a1700ecc669b250af44b89b992432363ec
+Author: Maksymilian Kubica <s12605@pjwstk.edu.pl>
+Date:   Mon Apr 9 18:28:35 2018 +0200
+
+    BUG FIX NO.1231534253
+
+ .list.html.swp | Bin 0 -> 16384 bytes
+ list.html      |   1 +
+ s12605.html    |   1 +
+ 3 files changed, 2 insertions(+)
+
+commit 909d8ad9ac518bdb558de34b4f59f76d3cd5b83f
+Merge: 1eacac1 c8821aa
+Author: Łukasz Stawiany <s12491@pjwstk.edu.pl>
+Date:   Mon Apr 9 18:09:45 2018 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 1eacac10fd8d2b47a75c27767496d718d51e0967
+Author: Łukasz Stawiany <s12491@pjwstk.edu.pl>
+Date:   Mon Apr 9 18:05:25 2018 +0200
+
+    komicik s12491
+
+ list.html   | 1 +
+ s12491.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit c8821aa539b3937d5387a465c67b0d58064507cf
+Author: Wojciech Strzelecki <strzelecki.wojciech@outlook.com>
+Date:   Mon Apr 9 18:01:49 2018 +0200
+
+    cwiczenia 1 s13329
+
+ list.html   | 1 +
+ s13329.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit c5c87fc6740b7e4bf2960edb9a7af28ff69e1ff9
+Author: Andrzej N <endrju@172.23.66.201.wi-fi.pjwstk.edu.pl>
+Date:   Mon Mar 26 18:22:49 2018 +0200
+
+    my commit
+
+ list.html   | 1 +
+ s12771.html | 6 ++++++
+ 2 files changed, 7 insertions(+)
+
+commit aeda6a7492150d244e4883377410bfb2dda5bbb4
+Author: mrToppo <37593013+mrToppo@users.noreply.github.com>
+Date:   Mon Mar 26 18:16:53 2018 +0200
+
+    Delete testowyPlik1.txt
+
+ testowyPlik1.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit c7d7f85822458d003b4bfd7dd500a86f029a7c27
+Author: mrToppo <37593013+mrToppo@users.noreply.github.com>
+Date:   Mon Mar 26 18:16:30 2018 +0200
+
+    Delete drugiPlikTestowy.txt
+
+ drugiPlikTestowy.txt | 6 ------
+ 1 file changed, 6 deletions(-)
+
+commit 0a42a0f1031eac351e82e59f514a25b8d93792ac
+Merge: c246c65 ba64070
+Author: Andrzej N <endrju@172.23.66.201.wi-fi.pjwstk.edu.pl>
+Date:   Mon Mar 26 18:05:28 2018 +0200
+
+    Merge https://github.com/Pietia1978/kwztutorial
+
+commit ba64070ebace3c27f94c13b3fed3097df5b4d4b7
+Author: Jakub Małyszek <s12687@pjwstk.edu.pl>
+Date:   Mon Mar 26 17:28:23 2018 +0200
+
+    s12687 commit
+
+ list.html   |  1 +
+ s12687.html | 13 +++++++++++++
+ 2 files changed, 14 insertions(+)
+
+commit c246c6565728c69949fbb0ab7198649b8eaeb51e
+Merge: da0a7e6 ef7c7e9
+Author: Andrzej N <endrju@MacBook-Pro-2.fritz.box>
+Date:   Tue Mar 20 18:37:19 2018 +0100
+
+    Merge branch 'nowaGalaz'
+
+commit ef7c7e94394c61487e06d2c42fafcc94e88dc987
+Author: Andrzej N <endrju@MacBook-Pro-2.fritz.box>
+Date:   Tue Mar 20 18:33:26 2018 +0100
+
+    Trzecia zmiana w drugim pliku, tym razem na innym branchu
+
+ drugiPlikTestowy.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit da0a7e6015177a37d4f165be5c61caaebe34d2e2
+Author: Andrzej N <endrju@MacBook-Pro-2.fritz.box>
+Date:   Tue Mar 20 18:31:47 2018 +0100
+
+    Dodana zmiana w pliku drugim
+
+ drugiPlikTestowy.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d95acbe6b42937ed34039cf603b5cb57cb7d1f10
+Author: Andrzej N <endrju@MacBook-Pro-2.fritz.box>
+Date:   Tue Mar 20 18:27:30 2018 +0100
+
+    drugi commit
+
+ drugiPlikTestowy.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 196af03a182d9fcbf4c2ffe96f1dd99722d1833d
+Author: Andrzej N <endrju@MacBook-Pro-2.fritz.box>
+Date:   Tue Mar 20 18:26:12 2018 +0100
+
+    Pierwszy commit
+
+ testowyPlik1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 380002abf87ec79783cddc4b8aa9d09b035f9b1a
+Author: Barbara Karpowicz <lomajek@MacBook-Air-2.local>
+Date:   Mon Mar 19 19:01:56 2018 +0100
+
+    commit s12507
+
+ list.html   | 1 +
+ s12507.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 3ae1063698bd1abf2036c5077da4f07eb4aa7e28
+Author: mikazz <s17405@pjwstk.edu.pl>
+Date:   Sat Mar 17 18:10:38 2018 +0100
+
+    nowe
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 48808a9649fe95879fb7154fdae359fd469aae7a
+Author: mikazz <s17405@pjwstk.edu.pl>
+Date:   Sat Mar 17 18:01:43 2018 +0100
+
+    Dodane
+
+ s17405.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 740a77e0a7091bd83f957d7178198b0d5221d4be
+Author: Michał Gołębiowski <s12648@pjwstk.edu.pl>
+Date:   Mon Mar 12 18:51:15 2018 +0100
+
+    dodano plik s12648.html i zaktualizowano plik list.html
+
+ list.html   | 1 +
+ s12648.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit ddaad07baf408709c8572792a6aa4857ef0730dd
+Merge: 529d6f6 3939b9d
+Author: Michał Wardak <s12885@pjwstk.edu.pl>
+Date:   Mon Mar 12 18:32:38 2018 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 3939b9d23742cdbcaa3a6ec9be8960854404cfec
+Author: Mateusz Osiński <s12684@pjwstk.edu.pl>
+Date:   Mon Mar 12 18:28:27 2018 +0100
+
+    my commit
+
+ list.html   | 1 +
+ s12684.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 529d6f635f00ce356ede3b833f2d6bc96acf8260
+Author: Michał Wardak <s12885@pjwstk.edu.pl>
+Date:   Mon Mar 12 18:25:19 2018 +0100
+
+    Dodanie swojej ski
+
+ list.html   | 1 +
+ s12885.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 5802a6dac15535dbc516856d985ed0aa4f016420
+Author: Piotr Kałwa <s12741@pjwstk.edu.pl>
+Date:   Mon Mar 12 18:08:42 2018 +0100
+
+     zaktualizowana lista, s12741
+
+ list.html   | 1 +
+ s12741.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit f9b02ef218b4b66e3b6e7fd958a93fbce67228f4
+Author: DESKTOP-JR6KDJO\hurma <hurma2rf@gmail.com>
+Date:   Mon Mar 12 15:31:13 2018 +0100
+
+    Yelchaninov Denys s17394
+
+ list.html   | 1 +
+ s17394.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 0bd742d9d77832e3777880f0720346d0bea5f16c
+Merge: e2cc3d0 01ffff5
+Author: Mnemonik <s12630@pjwstk.edu.pl>
+Date:   Fri Mar 9 20:46:46 2018 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit e2cc3d02d9b61da7c2c538baa19353d751b11f49
+Author: Mnemonik <s12630@pjwstk.edu.pl>
+Date:   Fri Mar 9 20:45:33 2018 +0100
+
+    commit_s12630
+
+ list.html   | 1 +
+ s12630.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 01ffff5cf726bea85988b6219a8a5a7e9c4c977c
+Author: Sławomir Dańczak <danczak.s@gmiail.com>
+Date:   Fri Mar 9 14:23:54 2018 +0100
+
+    danie pliku s12764@html i zmiany w list.html
+
+ list.html   | 1 +
+ s12764.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit df724078cd6d2078aabaa5cd3b0da8302c4e883a
+Author: Mateusz Knopers Knop <knopers.12@o2.pl>
+Date:   Mon Mar 5 19:11:35 2018 +0100
+
+    Added s12690 as Mateusz Knop
+
+ list.html   | 1 +
+ s12690.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit e50d28df0cce55772510c217d0a3fe9683f6a167
+Merge: 09ccc51 67a38fb
+Author: cezarynowacki <XYCNOWAC@zeiss.com>
+Date:   Tue Feb 20 09:56:19 2018 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+    commit
+
+commit 09ccc511318c088a7a527eb855f273b40807c361
+Author: Nowacki <XYCNOWAC@zeiss.com>
+Date:   Tue Feb 20 09:52:23 2018 +0100
+
+    commi
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 087f2b279f31abb30d5d39f0a0bf39035e895f8f
+Author: Nowacki <XYCNOWAC@zeiss.com>
+Date:   Tue Feb 20 09:46:34 2018 +0100
+
+    COMMIT
+
+ s16384.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 67a38fb22ee0e8d1c5feabebd17e2777425870ad
+Merge: 61c68e4 4a90c91
+Author: Piotr Basinski <piotrbasinski@Piotrs-MacBook-Pro.local>
+Date:   Tue Feb 20 09:43:57 2018 +0100
+
+    adds
+
+commit 4a90c91409075103e1a449c78ded816c4ce75d48
+Author: azurada <adamzurada@gmail.com>
+Date:   Tue Feb 20 09:41:20 2018 +0100
+
+    adam zurada
+
+ list.html   | 2 ++
+ s16388.html | 5 +++++
+ 2 files changed, 7 insertions(+)
+
+commit 41c76d651a748948f79cd46b1a45bd1939197808
+Author: Michal Walaszek <s10989@pjwstk.edu.pl>
+Date:   Tue Feb 20 09:25:28 2018 +0100
+
+    s10989 kwz
+
+ list.html   | 1 +
+ s10989.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 61c68e47ee5bb6a8962e3a3a52642ccf6cce6d9a
+Author: Piotr Basinski <piotrbasinski@Piotrs-MacBook-Pro.local>
+Date:   Mon Feb 19 12:46:51 2018 +0100
+
+    add s11571
+
+ list.html   | 1 +
+ s11571.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 9d73651e59575a5eeeec826c77458b2250704e4b
+Merge: b43a826 337ae43
+Author: Pietia1978 <tomasz.pieciukiewicz@gmail.com>
+Date:   Wed Feb 7 21:28:28 2018 +0100
+
+    Merge pull request #6 from januszgitow1234/master
+    
+    s16407 ready for grade
+
+commit 337ae43a591b7380397857e3e97342085c274129
+Author: Adrian Pielech <s16407@pjwstk.edu.pl>
+Date:   Wed Feb 7 20:25:12 2018 +0100
+
+    s16407 ready for grade
+
+ list.html   | 1 +
+ s16407.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b43a8269ac91a490b696529db4209f4ec6ba8cb7
+Author: VladAndrus <vladyslav.andrus@gmail.com>
+Date:   Sat Jan 27 16:47:56 2018 +0200
+
+    Vlad Andrus added
+
+ s14223.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 391a36340ffbb734e36468ff154f467ab2dfa378
+Author: Rafał Kowalczyk <s13765@pjwstk.edu.pl>
+Date:   Thu Jan 25 17:13:46 2018 +0100
+
+    Commit1
+
+ list.html   |  1 +
+ s13765.html | 20 ++++++++++++++++++++
+ 2 files changed, 21 insertions(+)
+
+commit d8268a84e574bb57d0c07c5528198f999f932087
+Author: Vasyl Marusiak <s14113@pjwstk.edu.pl>
+Date:   Thu Jan 11 19:29:28 2018 +0100
+
+    s14113 init commit
+
+ list.html   | 1 +
+ s14113.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 0e9139ac2b8069b61b17261834bb66ac0a4dfd5a
+Author: RDubovoy <r_dubovoy@yahoo.com>
+Date:   Thu Jan 11 19:40:17 2018 +0200
+
+    s13709.html added
+
+ s13709.html | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit fc5b3ccf289c4709f8ded16e2aed7b20e78e3fe4
+Author: Yuliia Kanarovska <s13742@pjwstk.edu.pl>
+Date:   Tue Jan 9 23:17:25 2018 +0100
+
+    init commit
+
+ list.html   | 3 ++-
+ s13742.html | 4 ++++
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+
+commit 840ff133e7061c10f6e3b13d63bc54be805b549d
+Author: Maciej Nowak <s13836@pjwstk.edu.pl>
+Date:   Mon Jan 8 16:53:41 2018 +0100
+
+    added s13836.html changed list.html
+
+ list.html   | 1 +
+ s13836.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b8ea7fc7052dd3a25de98c97015040a7ef41ec5c
+Author: Jakub Lisicki <s13691@pjwstk.edu.pl>
+Date:   Wed Dec 27 18:14:39 2017 +0100
+
+    Added Jakub Lisicki to the VCS.
+
+ list.html   |  3 ++-
+ s13691.html | 11 +++++++++++
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+
+commit 4ad92663ba85240efe56c27aa1c2695511e413e6
+Author: Marcin Mroz <s13835@pjwstk.edu.pl>
+Date:   Mon Dec 25 13:48:39 2017 +0100
+
+    updated list
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2e78a04851570f352de56b18e3c0d87a2f0ab094
+Author: Marcin Mroz <s13835@pjwstk.edu.pl>
+Date:   Mon Dec 25 13:47:53 2017 +0100
+
+    added page
+
+ s13835.html | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 533237b46a1130dc7b39361145411f5e8a2cf80f
+Author: Filip Sawicki <fp.sawicki@gmail.com>
+Date:   Fri Dec 22 15:44:41 2017 +0100
+
+    Add s13737.html and Update list.html
+
+ list.html   | 1 +
+ s13737.html | 6 ++++++
+ 2 files changed, 7 insertions(+)
+
+commit 26396370de24c8c84914c5a6833b68cbc97f84bb
+Author: Guy Drori <guydrori@users.noreply.github.com>
+Date:   Thu Dec 21 20:15:55 2017 +0100
+
+    Guy Drori s13997
+
+ list.html   |  1 +
+ s13997.html | 16 ++++++++++++++++
+ 2 files changed, 17 insertions(+)
+
+commit c57a06852d1198a5b13f524dfe5fb8cd147bee5d
+Merge: 22e2997 38dafdf
+Author: kuba <jakub.uzialo@gmail.com>
+Date:   Sun Oct 29 17:29:10 2017 +0100
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       list.html
+
+commit 38dafdf72c512048df4f293962dcfe589edf53ac
+Merge: 0d91dd4 f8f1aa8
+Author: Patryk Studniak <patryk.studniak@gmail.com>
+Date:   Sat Oct 28 10:28:48 2017 +0200
+
+    Merge pull request #5 from Pietia1978/s16183
+    
+    made changes in branch s16183
+
+commit f8f1aa8a003e41843d2ff9742814a5768147de3b
+Author: Patryk Studniak <patrykstudniak@172.23.65.149.wi-fi.pjwstk.edu.pl>
+Date:   Sat Oct 28 10:27:48 2017 +0200
+
+    made changes in branch
+
+ s16183.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 0d91dd47b7ee76f488e2a89679b843df20f35d6c
+Author: Patryk Studniak <patrykstudniak@172.23.65.149.wi-fi.pjwstk.edu.pl>
+Date:   Sat Oct 28 10:26:56 2017 +0200
+
+    s16183 added new files
+
+ s16183.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2c06bf1f1fb22a465fe5d36b0ba499a31f744554
+Author: Hubert Chylik <hubertchylik@gmail.com>
+Date:   Thu Oct 19 19:03:58 2017 +0200
+
+    Hubert Chylik
+
+ list.html   | 1 +
+ s15737.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 66119fff87ca2f78a5bf5703a1046c5f319ba947
+Author: s16130 <s16130@pjwstk.edu.pl>
+Date:   Sun Oct 15 19:54:22 2017 +0200
+
+    added s16130
+
+ list.html   |  1 +
+ s16130.html | 10 ++++++++++
+ 2 files changed, 11 insertions(+)
+
+commit 789ae34b0be5ada4a61702376ec2c7bc5be1f02d
+Author: Your Name <you@example.com>
+Date:   Sun Oct 15 18:50:38 2017 +0200
+
+    s15863.html Krzysztof Barzyk
+
+ list.html   | 1 +
+ s15863.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 3e63e703bfc5d1097690440d363f22521a2daa54
+Author: Tomasz Miśkiewicz <tomaszmisk@gmail.com>
+Date:   Sun Oct 15 18:34:03 2017 +0200
+
+    changed list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 75194121e47cfb087b59c96914b8ef281d36942a
+Author: Tomasz Miśkiewicz <tomaszmisk@gmail.com>
+Date:   Sun Oct 15 18:31:25 2017 +0200
+
+    added s6680.html
+
+ s6680.html | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 982219e62ee792aab2a773ec52c116c7cab91a9c
+Author: Piotr Jałowiecki <piotrjalowiecki@172.23.1.202.wi-fi.pjwstk.edu.pl>
+Date:   Sun Oct 15 16:28:13 2017 +0200
+
+    add s16147
+
+ list.html | 3 ---
+ 1 file changed, 3 deletions(-)
+
+commit 51d7b6174d95da1ef4ee8faa7f300d5bb2867391
+Merge: 37d9289 233df46
+Author: Piotr Jałowiecki <piotrjalowiecki@172.23.1.202.wi-fi.pjwstk.edu.pl>
+Date:   Sun Oct 15 16:25:09 2017 +0200
+
+    add s16147 and modify list.html
+
+commit 37d92891b57a1327ad5c976fd4c86599d39027e2
+Author: Piotr Jałowiecki <piotrjalowiecki@172.23.1.202.wi-fi.pjwstk.edu.pl>
+Date:   Sun Oct 15 16:22:44 2017 +0200
+
+    add s16147 and modify list.html
+
+ list.html   | 1 +
+ s16147.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 233df466000725ee1b7ccf8f8704959adb3edc25
+Author: Aleksander Solarz <Aleksander Solarz>
+Date:   Sun Oct 15 16:21:45 2017 +0200
+
+    commit from master
+
+ list.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit d8160c060c311eea4c90cef9889d1d22df64bbb9
+Author: Aleksander Solarz <Aleksander Solarz>
+Date:   Sun Oct 15 16:20:23 2017 +0200
+
+    commit from master
+
+ s16148.html | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit edc2f52f78ce243f87130de6a27337af7dc7d4d7
+Author: Lukasz Bednarz <lukasz.bednarz93@gmail.com>
+Date:   Sun Oct 15 14:54:31 2017 +0200
+
+    s15495
+
+ list.html   | 1 +
+ s15495.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 22e2997856563f40e56e101cf3fe51b984d9ad20
+Author: kuba <jakub.uzialo@gmail.com>
+Date:   Sun Oct 15 13:19:15 2017 +0200
+
+    s16100
+
+ list.html   | 1 +
+ s16100.html | 8 ++++++++
+ 2 files changed, 9 insertions(+)
+
+commit 1b33e5681394de134176e60f43de5bea3d448dfe
+Author: Damcyk <damcyk511@gmail.com>
+Date:   Sun Oct 15 09:57:37 2017 +0200
+
+    Damian Dabrowski + zadania
+
+ list.html   | 1 +
+ s15900.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 7be0861510552c08f862f57191334b189b9a72ac
+Merge: 2e747e6 713ee41
+Author: krzysztof-dell\Krzysztof <kaniak@o2.pl>
+Date:   Sat Oct 14 22:05:05 2017 +0200
+
+    Resolved conflicts.
+
+commit 713ee4142cb897349289f575efe6204ba48d9c89
+Merge: 17bfd8e 7c867be
+Author: Daniel Piotrowski <daniel.piotrowski@interia.pl>
+Date:   Sat Oct 14 20:59:17 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+    
+    Conflicts:
+            list.html
+
+commit 7c867becb32eb9d84f145ad7eda2be602f5a6525
+Author: s8368-pjatk <32791640+s8368-pjatk@users.noreply.github.com>
+Date:   Sat Oct 14 20:54:33 2017 +0200
+
+    mergemario
+
+ list.html  | 1 +
+ s8368.html | 6 ++++++
+ 2 files changed, 7 insertions(+)
+
+commit 541f8ee8c08e011e4e140778e8fd6c497d3cc93c
+Author: Klaudyna <klaudynaz@gmail.com>
+Date:   Sat Oct 14 19:56:14 2017 +0200
+
+    Klaudyna Żelewska s10649
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit b5f7d3d8e6a7aa6b64d24c2033e574aed76fa2ee
+Author: Klaudyna <klaudynaz@gmail.com>
+Date:   Sat Oct 14 19:52:11 2017 +0200
+
+    Klaudyna Żelewska s10649
+
+ s10649.html | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit fab895a5c8e80304b031a899f0882e260844436b
+Merge: b95426a 477af95
+Author: Pawel <pawelpolczynski1@gmail.com>
+Date:   Sat Oct 14 19:09:16 2017 +0200
+
+    merge s16054
+
+commit 477af95f9620c3263934c1f8785089dc44452f96
+Author: Zbigniew Frysztak <z.frysztak@futuremind.com>
+Date:   Sat Oct 14 16:22:50 2017 +0200
+
+    Modify list
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d5b383da59828e5a51bac9419306e03f381a1147
+Author: Zbigniew Frysztak <z.frysztak@futuremind.com>
+Date:   Sat Oct 14 16:20:01 2017 +0200
+
+    Add file
+
+ s9483.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2e747e65310a48ab3f2dd81fe979e709d9e0c630
+Author: krzysztof-dell\Krzysztof <kaniak@o2.pl>
+Date:   Fri Oct 13 22:46:43 2017 +0200
+
+    Dodanie pliku z danymi studenta s15040.
+
+ list.html   | 2 ++
+ s15040.html | 7 +++++++
+ 2 files changed, 9 insertions(+)
+
+commit 94da1f6f2afd467a7dd16e41d6d404bd25a1d64d
+Author: osboxes.org <Triko80@gmail.com>
+Date:   Fri Oct 13 20:06:12 2017 +0100
+
+    Dodanie s9373.
+
+ list.html  | 1 +
+ s9373.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit c1362396ffccbed33e2692f8867f25c4899a00a5
+Author: Michał Cywiński <mcywinski@hotmail.com>
+Date:   Fri Oct 13 20:45:27 2017 +0200
+
+    Dodanie odnośnika s15027 do list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 66a52bf368aed4dcc1963ec284bd0c0ff719918c
+Author: Michał Cywiński <mcywinski@hotmail.com>
+Date:   Fri Oct 13 20:43:54 2017 +0200
+
+    Dodanie pliku studenta s15027
+
+ s15027.html | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 17bfd8e68e5b616e9da83c1fd2b82dd60e5be6cd
+Author: Daniel Piotrowski <daniel.piotrowski@interia.pl>
+Date:   Fri Oct 13 12:23:05 2017 +0200
+
+    s16035
+
+ list.html   | 1 +
+ s16035.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b95426a2ff37cfbfa6c7f4b95f2de78fee7cfdad
+Author: Pawel <pawelpolczynski1@gmail.com>
+Date:   Thu Oct 12 23:41:37 2017 +0200
+
+    16054
+
+ list.html   | 1 +
+ s16054.html | 3 +++
+ 2 files changed, 4 insertions(+)
+
+commit 5befc00197829d643c4c6bd90c2fe1d4b1518cd6
+Author: AdamLato <Adam@Latosiewicz.net.pl>
+Date:   Thu Oct 12 17:53:32 2017 +0200
+
+    s9420 - edit list.html
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 40968bf0850c9da94a8adbbfe8845b2e5003f32f
+Merge: b1ead45 a5b0c2c
+Author: AdamLato <Adam@Latosiewicz.net.pl>
+Date:   Thu Oct 12 17:51:46 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit a5b0c2c69d25707d25b5273d0307f15861117443
+Author: s15070 <s15070@pjwstk.edu.pl>
+Date:   Wed Oct 11 20:30:49 2017 +0200
+
+    s15070
+
+ list.html   | 1 +
+ s15070.html | 8 ++++++++
+ 2 files changed, 9 insertions(+)
+
+commit 99166f3a42cadb87b11389a61ea89aae446c9efa
+Author: s15103 <32495520+s15103@users.noreply.github.com>
+Date:   Mon Oct 9 20:50:03 2017 +0200
+
+    s15103 list
+
+ list.html | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 46d440c55c6340b326a6150308e7fc5af71b2ccc
+Author: s15103 <32495520+s15103@users.noreply.github.com>
+Date:   Mon Oct 9 20:46:35 2017 +0200
+
+    s15103
+
+ s15103.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit b1ead45db3d397e8b6da35a80eefd5b5c6a2aa89
+Author: AdamLato <Adam@Latosiewicz.net.pl>
+Date:   Sun Oct 8 11:53:58 2017 +0200
+
+    S9420 Add File
+
+ s9420.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit ce46c82b89fc5f738dcd6e6a589e6c69b5e24733
+Author: Maciej Jakubiec <mjakubiec@data.pl>
+Date:   Sun Oct 8 10:30:11 2017 +0200
+
+    s5433. Zapisa lokalny.
+
+ list.html  | 3 ++-
+ s5433.html | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 1c5c3478c5bbc20ca690702f63ca5bc62989af0b
+Author: TheOpti <wieckowski.piotr.93@gmail.com>
+Date:   Tue Oct 3 23:40:40 2017 +0200
+
+    Piotr Wieckowski s16031 added
+
+ list.html   |  2 +-
+ s16031.html | 11 +++++++++++
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+
+commit 6ec46e40fc15b3eff6281b57ceb11be634a579e6
+Author: root <root@xavato>
+Date:   Mon Oct 2 21:24:21 2017 +0200
+
+    Jerzy Skalski s9473
+
+ list.html  | 4 ++++
+ s9473.html | 9 +++++++++
+ 2 files changed, 13 insertions(+)
+
+commit 3ce5ce2ac1b4bb12103dee431e0fe4e0bf0700c7
+Merge: ae88b13 537ee0a
+Author: konradmirowski <konrad.mirowski@gmail.com>
+Date:   Mon Oct 2 19:13:58 2017 +0200
+
+    Merge pull request #4 from Pietia1978/s15865
+    
+    s15865 commit
+
+commit 537ee0a86402a59f19ef7c3c035919c166d9f594
+Author: konradmirowski <konrad@MacBook-Pro-Konrad.local>
+Date:   Mon Oct 2 19:06:48 2017 +0200
+
+    s15865 commit
+
+ list.html   | 1 +
+ s15865.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit ae88b13e18579f14be6d71023e73541c12aa27d0
+Author: Rybaak <rybawaw@gmail.com>
+Date:   Mon Oct 2 11:27:38 2017 +0200
+
+    Maciej Wawrzyniak commit
+
+ list.html   | 2 +-
+ s16087.html | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 23f6228a081621d6cf2d0355b62d7b7c71fe85cb
+Merge: f0e6761 84d65cf
+Author: Rafał Petryka <rafalpetryka@gmail.com>
+Date:   Sun Oct 1 19:50:23 2017 +0200
+
+    Merge commit
+
+commit 84d65cfbb4a601f39813465725fadb186b7b48c6
+Author: Kamil Frankowicz <s15028@pjwstk.edu.pl>
+Date:   Sun Oct 1 19:28:01 2017 +0200
+
+    Kamil Frankowicz
+
+ s15028.html | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 82a6b758253d081ee2225dc95793189a64919363
+Merge: a07ed24 a747089
+Author: Pietia1978 <tomasz.pieciukiewicz@gmail.com>
+Date:   Sun Oct 1 19:11:48 2017 +0200
+
+    Merge pull request #3 from MaciejRozz/master
+    
+    Testowy pull request
+
+commit a7470892f962c2a99ab7e78ae52489b54bd7ec7b
+Author: MS <rozz@s07.rozz.eu>
+Date:   Sun Oct 1 19:07:03 2017 +0200
+
+    commit commit
+
+ list.html   | 1 +
+ s14409.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit a07ed2460bd9b3cf26ef81a566795536a5d52e1e
+Author: Jacek Kossowski <Jacek Kossowski>
+Date:   Sun Oct 1 18:51:54 2017 +0200
+
+    Jacek Kossowski commit
+
+ list.html   | 1 +
+ s10432.html | 0
+ 2 files changed, 1 insertion(+)
+
+commit c3b2e99c9ec5507736510dbed54aa7d38fa7cb02
+Author: Filip <s8145@pjwstk.edu.pl>
+Date:   Sun Oct 1 18:42:16 2017 +0200
+
+    wpis do listy: s8145
+
+ list.html  | 1 +
+ s8145.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit e14c5ceb3297fd3602dc13ddb315a3fc72110676
+Merge: decc0bb 1f49caa
+Author: Michał Kraszewski <s16205@pjwstk.edu.pl>
+Date:   Sun Oct 1 17:14:45 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit decc0bbd29f171197c300a7f65cf8ea98308fa84
+Author: Michał Kraszewski <s16205@pjwstk.edu.pl>
+Date:   Sun Oct 1 17:13:41 2017 +0200
+
+    commit s16205 Michal Kraszewski
+
+ s16205.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1f49caa32463d1a06959a699adb60f216fee6946
+Merge: cd646ef 93fa2b8
+Author: Katarzyna Cepińska <s14768@pjwstk.edu.pl>
+Date:   Sun Oct 1 17:10:51 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit cd646ef52bf0ca4706838230dc2e393c94f37bc7
+Merge: 5599d80 6e9f1ac
+Author: Katarzyna Cepińska <s14768@pjwstk.edu.pl>
+Date:   Sun Oct 1 17:10:26 2017 +0200
+
+    merge KasiaCepinska
+
+commit 93fa2b8df23b7e5073b3f742437af55883452de7
+Author: mkvvltra <mkvvltra@gmail.com>
+Date:   Sun Oct 1 17:09:29 2017 +0200
+
+    commit Piotr Brynski
+
+ list.html | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 6e9f1ac333e3a43f1538705f0835390deec214af
+Author: mkvvltra <mkvvltra@gmail.com>
+Date:   Sun Oct 1 17:08:39 2017 +0200
+
+    commit Piotr Brynski
+
+ s10463.html | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 5599d80118960c95164ffd0d979c2847614a9a5c
+Author: Katarzyna Cepińska <s14768@pjwstk.edu.pl>
+Date:   Sun Oct 1 17:05:03 2017 +0200
+
+    Katarzyna Cepinska
+
+ list.html   | 1 +
+ s14768.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit c3a57b705c35ab91422950b891e30cda20f1e442
+Merge: c07b2bd 50fd684
+Author: Michał Kraszewski <s16205@pjwstk.edu.pl>
+Date:   Sun Oct 1 17:03:09 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit c07b2bd226963e3ea4baa910b56d51b4fff6a789
+Author: Michał Kraszewski <s16205@pjwstk.edu.pl>
+Date:   Sun Oct 1 17:00:57 2017 +0200
+
+    s16205@pjwstk.edu.pl
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 50fd684d6a37b6ec7022f2c32770c9947420e04b
+Merge: 35b25e6 a76ceb2
+Author: Pawel Burgchardt <pawel.burgchardt@gmail.com>
+Date:   Sun Oct 1 16:57:12 2017 +0200
+
+    merge z zmianami poprzednich użytkowników
+
+commit 35b25e68337051523107732bbbce44b5a3f3106b
+Author: Pawel Burgchardt <pawel.burgchardt@gmail.com>
+Date:   Sun Oct 1 16:55:46 2017 +0200
+
+    burgchardt dodany do list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit c19377e78e31f669559a1749434c1d2c2cb6baf0
+Author: Pawel Burgchardt <pawel.burgchardt@gmail.com>
+Date:   Sun Oct 1 16:54:48 2017 +0200
+
+    dodany Paweł Burgchardt
+
+ s16254.html | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit a76ceb25015f322a4f824bdacfa7d14ac75e3e32
+Author: JS <j.skrzecz.s@gmail.com>
+Date:   Sun Oct 1 16:53:41 2017 +0200
+
+    commit s15496
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d9e7fdceb789b4b2492c60291346e7393663f203
+Merge: de5ed5c fc3b6f8
+Author: JS <j.skrzecz.s@gmail.com>
+Date:   Sun Oct 1 16:44:47 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit de5ed5c374f86c8aff8f0a5452ac190aa227b953
+Author: JS <j.skrzecz.s@gmail.com>
+Date:   Sun Oct 1 16:41:07 2017 +0200
+
+    commit s15496
+
+ s15496.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit fc3b6f825ed8a102499a5546113854275c3b8d14
+Author: Zuzanna Brzeska <s16287@pjwstk.edu.pl>
+Date:   Sun Oct 1 16:38:45 2017 +0200
+
+    commit Zuzanna Brzeska
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f32f22231a4d6fbe39c682c5c56a27ce521b4d8d
+Merge: 0aedb6e 906dbf7
+Author: Zuzanna Brzeska <s16287@pjwstk.edu.pl>
+Date:   Sun Oct 1 16:37:06 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 0aedb6e0b96fb9c1e1f306f79fd7d83439993ad0
+Author: Zuzanna Brzeska <s16287@pjwstk.edu.pl>
+Date:   Sun Oct 1 16:35:01 2017 +0200
+
+    commit Zuzanna Brzeska
+
+ list.html   | 2 +-
+ s16287.html | 2 ++
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 906dbf787f263ef08ab6feab3e6e73c5f05e5374
+Author: Natalia Jabłońska <s16051@pjwstk.edu.pl>
+Date:   Sun Oct 1 16:32:30 2017 +0200
+
+    Natalia Jablonska
+
+ list.html   | 1 +
+ s16051.html | 5 +++++
+ 2 files changed, 6 insertions(+)
+
+commit 4fef7201d97235dcd21e664f63d5cb59293051a3
+Author: Mariusz Hausenplas <xelitas@gmail.com>
+Date:   Sun Oct 1 16:19:40 2017 +0200
+
+    add link to list.html pointing to s10638.html
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 567f2e6fed7c96dfa718713f06943617068df450
+Author: Mariusz Hausenplas <xelitas@gmail.com>
+Date:   Sun Oct 1 16:17:38 2017 +0200
+
+    add s10638.html
+
+ s10638.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f0e67619d0114c352680f21540f4da000394de06
+Author: Rafał Petryka <rafalpetryka@gmail.com>
+Date:   Sun Oct 1 15:23:13 2017 +0200
+
+    Added link to file
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit a0d1c1e123f089d461568e1370493260e962b137
+Author: Rafał Petryka <rafalpetryka@gmail.com>
+Date:   Sun Oct 1 15:21:46 2017 +0200
+
+    Added new file
+
+ s10396.html | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 1dc66c61efcd0df0f740a0f3246444fe9f998ea9
+Author: Przemys³aw Olszewski <s16033@pjwstk.edu.pl>
+Date:   Sun Oct 1 14:48:52 2017 +0200
+
+    s16033@pjwstk.edu.pl
+
+ list.html   | 1 +
+ s16033.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 89ecf6a1a57d84dd6ac76dec30d1ffe8b3d6a78c
+Author: Kris <zioming@gmail.com>
+Date:   Tue Jun 13 17:07:49 2017 +0200
+
+    commit s7675
+
+ list.html  | 1 +
+ s7675.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit da22971958b53f3b23967aa76def121bfc879ca3
+Author: Pavlo Lozovikov <plozovikov@gmail.com>
+Date:   Mon Jun 5 19:35:28 2017 +0200
+
+    href_zmiany
+    
+    s14868
+
+ list.html   | 1 +
+ s14868.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 900b6f3c11cb84d0d6061fc155bae2ae70c5a7ba
+Author: Pietia1978 <tomasz.pieciukiewicz@gmail.com>
+Date:   Mon Jun 5 08:15:46 2017 +0200
+
+    Add files via upload
+
+ map.html | 69 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 69 insertions(+)
+
+commit 01a306320574da8eec640d96bb2400fbef06f628
+Author: Pavel <Pavel>
+Date:   Mon May 15 19:46:16 2017 +0200
+
+    s15739
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 92234db2b771a5fb6b1a80ac165f5d6f2fd16051
+Author: Pavel <Pavel>
+Date:   Mon May 15 19:40:31 2017 +0200
+
+    s15739 is added
+
+ s15739.html | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit dc4e314f74c74df64e2964a89a6e7f71b5cd9733
+Author: s15985 <s15985@pjwstk.edu.pl>
+Date:   Thu May 11 20:00:01 2017 +0200
+
+    Add files via upload
+
+ s15985.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2ce0efb6047dd4c14080bd6751a30852d095278f
+Author: osekmadafaka <s9636@pjwstk.edu.pl>
+Date:   Thu May 11 19:56:25 2017 +0200
+
+    Rename s9636 to s9636.html
+
+ s9636 => s9636.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b97fdb0cec18f8dfa38557403368adcf1b072b0b
+Author: s15985 <s15985@pjwstk.edu.pl>
+Date:   Thu May 11 19:55:21 2017 +0200
+
+    Update list.html
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 16c7b2e5de61c5e80d645fa293e6972a3da8d10d
+Merge: 9c4ca98 9b0c81d
+Author: Michał Walewski <s16079@pjwstk.edu.pl>
+Date:   Thu May 11 19:49:04 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 9c4ca98d38d1f94f0f61c685559f1ecf7b3fca33
+Author: Michał Walewski <s16079@pjwstk.edu.pl>
+Date:   Thu May 11 19:47:44 2017 +0200
+
+    s16079@pjwstk.edu.pl
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 9b0c81d7e837839cf3992ea21c4c121692906726
+Merge: 14a5483 2dabc2b
+Author: Łukasz Grzybowski <s15491@pjwstk.edu.pl>
+Date:   Thu May 11 19:46:54 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 14a5483f712eb90149b9ac447df29cc3922ad507
+Author: Łukasz Grzybowski <s15491@pjwstk.edu.pl>
+Date:   Thu May 11 19:45:53 2017 +0200
+
+    sdasd
+
+ list.html   | 1 +
+ s15491.html | 3 +++
+ 2 files changed, 4 insertions(+)
+
+commit 2dabc2bd28d914570e7e9c7877afc42a278fb037
+Author: s6996 <s6996@pjwstk.edu.pl>
+Date:   Thu May 11 19:45:42 2017 +0200
+
+    Update list.html
+
+ list.html | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 419438a706fb09a990e60cc3fde443d4e356db1c
+Author: osekmadafaka <s9636@pjwstk.edu.pl>
+Date:   Thu May 11 19:44:13 2017 +0200
+
+    Create s9636
+
+ s9636 | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 634c59aab1a665c9e2a01c422b8f46de3e8730a6
+Author: s6996 <s6996@pjwstk.edu.pl>
+Date:   Thu May 11 19:41:21 2017 +0200
+
+    Create s6996.html
+
+ s6996.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 4bd6b7f588f5056581abd05169611d55db413e61
+Merge: f36e9eb 4db7bf3
+Author: Mieczysław Szumilak <s9600@pjwstk.edu.pl>
+Date:   Thu May 11 19:33:45 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit f36e9eb4733f1ec6519dbcdd9f28b49bf28b7bf5
+Author: Mieczysław Szumilak <s9600@pjwstk.edu.pl>
+Date:   Thu May 11 19:32:28 2017 +0200
+
+    s9600@pjwstk.edu.pl
+
+ s9600.html | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit bb3b0b935eccac2e17317a7e8e89d6416c0784a2
+Author: Mieczysław Szumilak <s9600@pjwstk.edu.pl>
+Date:   Thu May 11 19:31:10 2017 +0200
+
+    s9600@pjwstk.edu.pl
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 4db7bf3005a6a469ec9efe0e642d8fe40f1c5b68
+Author: Michał Walewski <s16079@pjwstk.edu.pl>
+Date:   Thu May 11 19:28:25 2017 +0200
+
+    16079@pjwstk.edu.pl
+
+ s16079.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 163252db96c030b2aa1042e2574b9c8a6cf2b617
+Author: Łukasz Domeradzki <s10464@pjwstk.edu.pl>
+Date:   Thu May 11 18:49:37 2017 +0200
+
+    Add myself to list.html
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 8f7aa110a02846d62c8310c35482428ad494c831
+Author: Łukasz Domeradzki <s10464@pjwstk.edu.pl>
+Date:   Thu May 11 18:49:05 2017 +0200
+
+    GitHub fajna rzecz
+
+ s10464.html | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 556821ab1d258b04a00ac64a7152a8c3b899d786
+Merge: bbe040b adbb3a1
+Author: Yana Slavinska <s15494@pjwstk.edu.pl>
+Date:   Thu May 11 18:28:19 2017 +0200
+
+    3th
+
+commit bbe040bd2f367ce958f61f87c62af767d2d74fd4
+Author: Yana Slavinska <s15494@pjwstk.edu.pl>
+Date:   Thu May 11 18:24:13 2017 +0200
+
+    2th
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 69ff6149b24fc6e9a74445af52b518c43f4a4cd5
+Author: Yana Slavinska <s15494@pjwstk.edu.pl>
+Date:   Thu May 11 18:21:19 2017 +0200
+
+    1th
+
+ s15494.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit adbb3a12bb0fe1e2d72bd8066f0135ddb792f9a7
+Merge: 4e5688f 6ae081e
+Author: Anton Yaskiv <s15623@pjwstk.edu.pl>
+Date:   Thu May 11 18:21:13 2017 +0200
+
+    yaskiv
+
+commit 6ae081ebb0c0c4ee7113a853d2276784d1be7de4
+Merge: 2e2e2df 2d2918e
+Author: Filip Frend <s11689@pjwstk.edu.pl>
+Date:   Thu May 11 18:18:53 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 4e5688f280cb24ccd3ac61d5092d13eb1d09ddc3
+Merge: 37345f6 dcf1c7d
+Author: Anton Yaskiv <s15623@pjwstk.edu.pl>
+Date:   Thu May 11 18:17:29 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 2d2918e0244b24df60611a89122c374e8daa0314
+Author: Denys Isaiev <s15808@pjwstk.edu.pl>
+Date:   Thu May 11 18:17:27 2017 +0200
+
+    fix commit
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2e2e2df2ec6a2aa7a143af07f965749aa794f315
+Merge: 2db19b0 c93d753
+Author: Filip Frend <s11689@pjwstk.edu.pl>
+Date:   Thu May 11 18:17:11 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 37345f69b7ec82a74651a09847acce8db0bcf902
+Author: Anton Yaskiv <s15623@pjwstk.edu.pl>
+Date:   Thu May 11 18:17:04 2017 +0200
+
+    yaskiv
+
+ list.html  |  1 +
+ list.html~ | 30 ------------------------------
+ 2 files changed, 1 insertion(+), 30 deletions(-)
+
+commit dcf1c7d087c56df886f1a29badf2b72e945ca4ef
+Merge: de767ec eb182a1
+Author: Vladyslav Bilous <s15624@pjwstk.edu.pl>
+Date:   Thu May 11 18:12:14 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit de767eccd5f4a8348f553c8fb9db5dba9c0246f3
+Merge: 89da10e 96032f7
+Author: Vladyslav Bilous <s15624@pjwstk.edu.pl>
+Date:   Thu May 11 18:11:55 2017 +0200
+
+    new message
+
+commit eb182a1ec21d0b0b40c2b2d39d8efedef1545920
+Merge: 2ed206a 96032f7
+Author: Anton Yaskiv <s15623@pjwstk.edu.pl>
+Date:   Thu May 11 18:11:49 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 96032f7f1570fc95da1811bed84b306b96adb162
+Merge: af91735 3eeff8c
+Author: Vladyslav Kostenko <s15530@pjwstk.edu.pl>
+Date:   Thu May 11 18:10:54 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit af917351597c85afa34af4835f92f73947b8a955
+Merge: a7908c8 c93d753
+Author: Vladyslav Kostenko <s15530@pjwstk.edu.pl>
+Date:   Thu May 11 18:10:22 2017 +0200
+
+    commit list
+
+commit 2ed206a1187f0bfcf4f63dd3667349a221f2e383
+Author: Anton Yaskiv <s15623@pjwstk.edu.pl>
+Date:   Thu May 11 18:09:19 2017 +0200
+
+    yaskiv
+
+ s15623.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3eeff8c7fdfcdf95075daa26dc70d7a8daee4f90
+Merge: 9d6641d c93d753
+Author: Ilona Malyshivska <s15802@pjwstk.edu.pl>
+Date:   Thu May 11 18:09:01 2017 +0200
+
+    s15802
+
+commit 9d6641d003dffb4f70cab148f69df05260ff61d3
+Merge: 91f2aca 559cc0a
+Author: Ilona Malyshivska <s15802@pjwstk.edu.pl>
+Date:   Thu May 11 18:08:09 2017 +0200
+
+    s15802
+
+commit c93d7533126cb8c44f7faffdb6ba353d8ef85bf0
+Merge: 6614cd6 559cc0a
+Author: Dmytro Prysekin <s15698@pjwstk.edu.pl>
+Date:   Thu May 11 18:07:32 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 89da10ece99f2e8bf7e081497cf20671d13b95fc
+Author: Vladyslav Bilous <s15624@pjwstk.edu.pl>
+Date:   Thu May 11 18:07:05 2017 +0200
+
+    new message
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a7908c80b2f58dddf925f5aefa5f352a88b9d405
+Author: Vladyslav Kostenko <s15530@pjwstk.edu.pl>
+Date:   Thu May 11 18:06:58 2017 +0200
+
+    update list
+
+ list.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 559cc0a2381906d56ba9cbeea113aeb0c83c8a81
+Merge: e66d525 dea54c9
+Author: Marcin Antczak <s11534@pjwstk.edu.pl>
+Date:   Thu May 11 18:05:34 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 297e487ddbb5d3a79266cb3dc9a06115d6d7823e
+Author: Vladyslav Bilous <s15624@pjwstk.edu.pl>
+Date:   Thu May 11 18:05:26 2017 +0200
+
+    new message
+
+ s15624.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 91f2aca08daf27790d4a94eef9eef0956752547c
+Merge: 17f2632 dea54c9
+Author: Ilona Malyshivska <s15802@pjwstk.edu.pl>
+Date:   Thu May 11 18:05:01 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit e66d52535c37079cbe21856d87ead540b290e68c
+Author: Marcin Antczak <s11534@pjwstk.edu.pl>
+Date:   Thu May 11 18:04:35 2017 +0200
+
+    s11534
+
+ list.html   | 1 +
+ s11534.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 2db19b0a9a56d12a490f6eb3297f00ef26558cea
+Author: Filip Frend <s11689@pjwstk.edu.pl>
+Date:   Thu May 11 18:03:55 2017 +0200
+
+    change s11689
+
+ s11689.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b9accd7e3c09a5c0a05795213be179bd4fac8e1e
+Author: Vladyslav Kostenko <s15530@pjwstk.edu.pl>
+Date:   Thu May 11 18:02:19 2017 +0200
+
+    s15530 commit
+
+ s15530.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit dea54c9983a4b611559003dbac3bee62cb50abe6
+Author: Andrii Romaniuk <s15847@pjwstk.edu.pl>
+Date:   Thu May 11 18:01:40 2017 +0200
+
+    my commit s15847
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3934c19f8dc4de33493bb5ad7bb2ada460e1847e
+Author: Andrii Romaniuk <s15847@pjwstk.edu.pl>
+Date:   Thu May 11 18:01:17 2017 +0200
+
+    my commit s15847
+
+ s15847.html | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 6614cd64bfb0368c40372b1bdc5a7a0bfcca42db
+Author: Dmytro Prysekin <s15698@pjwstk.edu.pl>
+Date:   Thu May 11 18:00:53 2017 +0200
+
+    added student s15698 Dmytro Prysekin
+
+ list.html   | 1 +
+ s15698.html | 5 +++++
+ 2 files changed, 6 insertions(+)
+
+commit 17f26321603694d334ecd3e6d174257962aeedef
+Merge: 67f3b99 7412f2f
+Author: Ilona Malyshivska <s15802@pjwstk.edu.pl>
+Date:   Thu May 11 17:57:56 2017 +0200
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 825e9e504290a90bdb872fcfce13367cd087cf39
+Author: Filip Frend <s11689@pjwstk.edu.pl>
+Date:   Thu May 11 17:56:47 2017 +0200
+
+    add s11689
+
+ list.html   | 2 ++
+ s11689.html | 1 +
+ 2 files changed, 3 insertions(+)
+
+commit 67f3b99714a00794a0d5f9ef17be0f9e3cbed95b
+Author: Ilona Malyshivska <s15802@pjwstk.edu.pl>
+Date:   Thu May 11 17:56:31 2017 +0200
+
+    list.html modified
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 7412f2f91c59080cd0348da71fa6379d562f70dd
+Merge: 7dc0c06 a591de6
+Author: Vladyslav Shyika <s15849@pjwstk.edu.pl>
+Date:   Thu May 11 17:55:14 2017 +0200
+
+    Conflict with Marek has been resolved
+
+commit 81fb2118c9c1f51a10eccbb0e43d9dfc0d2071d5
+Author: Ilona Malyshivska <s15802@pjwstk.edu.pl>
+Date:   Thu May 11 17:52:29 2017 +0200
+
+    s15802.html added
+
+ s15802.html | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 7dc0c068fc7e7fc722e721437c2431ea5e9936f1
+Author: Vladyslav Shyika <s15849@pjwstk.edu.pl>
+Date:   Thu May 11 17:49:23 2017 +0200
+
+    Added s15849 to list.html
+
+ list.html   | 1 +
+ s15849.html | 3 +++
+ 2 files changed, 4 insertions(+)
+
+commit a591de6bee2f1a9f7842685d9d391aaa6704ed55
+Author: Marek Truszkowski <s16391@pjwstk.edu.pl>
+Date:   Thu May 11 17:47:48 2017 +0200
+
+    [KWZ] add: link to my html
+
+ list.html   | 1 +
+ s16391.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b7d1521d6f4f72fd5db1bdaa6eb923af5d63c843
+Author: Denys Isaiev <s15808@pjwstk.edu.pl>
+Date:   Thu May 11 17:29:12 2017 +0200
+
+    commit s15808
+
+ s15808.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit d308faea0c133ccff760c5dfa147884b0f70d168
+Merge: 6721131 cebffec
+Author: tomasz pieciukiewicz <pietia@pjwstk.edu.pl>
+Date:   Thu Apr 27 18:17:46 2017 +0200
+
+    uspojnione
+
+commit 6721131448a69472aab057747ec9a2054303e42e
+Author: tomasz pieciukiewicz <pietia@pjwstk.edu.pl>
+Date:   Thu Apr 27 18:16:20 2017 +0200
+
+    lokalne zmiany
+
+ pietia.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit cebffec6d19f3bc21b48a3988f6465d2ec5289d5
+Author: Pietia1978 <tomasz.pieciukiewicz@gmail.com>
+Date:   Thu Apr 27 18:14:50 2017 +0200
+
+    Update pietia.html
+
+ pietia.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 6e440b52b26a65a4f812e136cc88cf08d6522f83
+Author: majakutermacha <maja.kutermacha@gmail.com>
+Date:   Tue Jan 17 20:51:36 2017 +0100
+
+    Maja Kutermacha
+
+ list.html   | 1 +
+ s14747.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit dfe27577973c9b8c525b76d5a09ba284ff547374
+Author: s14257@pjwstk.edu.pl <s14257@pjwstk.edu.pl>
+Date:   Mon Jan 9 15:13:56 2017 +0100
+
+    fixed rebase
+
+ list.html   | 9 +--------
+ s14257.html | 1 +
+ 2 files changed, 2 insertions(+), 8 deletions(-)
+
+commit 9a755ddb6b95af3e49947f44a4d20bbad3da19d5
+Merge: f22dc39 557087c
+Author: Michał Pawłowski <s12772@pjwstk.edu.pl>
+Date:   Mon Nov 21 15:03:49 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+    s12772
+
+commit 557087cb86a28331bc69350192d0c6412dbd53f0
+Merge: 7e61b2b a002c07
+Author: Konrad Skoczeń <s12514@pjwstk.edu.pl>
+Date:   Mon Nov 21 15:01:27 2016 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit f22dc397f04ecd97d9d9931c0e462ac53cdb0cdf
+Author: Michał Pawłowski <s12772@pjwstk.edu.pl>
+Date:   Mon Nov 21 14:56:50 2016 +0100
+
+    Michal Pawlowski s12772 commited lelo
+
+ list.html   |  1 +
+ s12772.html | 13 +++++++++++++
+ 2 files changed, 14 insertions(+)
+
+commit a002c075d38ff109d4f9f15deaec5c212f7f9e60
+Author: Piotr Górski <s13877@pjwstk.edu.pl>
+Date:   Mon Nov 21 14:55:29 2016 +0100
+
+    lelo kako kakanal
+
+ list.html   | 1 +
+ s13877.html | 5 +++++
+ 2 files changed, 6 insertions(+)
+
+commit 7e61b2bd08b12ed0959eff7e29398b269373bb55
+Author: Konrad Skoczeń <s12514@pjwstk.edu.pl>
+Date:   Mon Nov 21 14:52:08 2016 +0100
+
+    kad
+
+ list.html   |  1 +
+ s12514.html | 10 ++++++++++
+ 2 files changed, 11 insertions(+)
+
+commit 1ea8872445935b2aead8e3b33ace2a4bb8e9814c
+Author: User <s14796@pjwstk.edu.pl>
+Date:   Sun Nov 13 19:30:00 2016 +0100
+
+    s14796
+
+ list.html   | 1 +
+ s14796.html | 5 +++++
+ 2 files changed, 6 insertions(+)
+
+commit 6500e33ee0518c6a34b15c89e1d89c5fcddf1ccb
+Author: Damian Bogucki <dnbogucki@gmail.com>
+Date:   Fri Nov 11 16:56:42 2016 +0100
+
+    bog
+
+ list.html   | 2 +-
+ s14302.html | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 2f8f3e8fba4c7e5438b04ea97afe6f2e53f5f483
+Author: Adam <adam.masnik@gmail.com>
+Date:   Fri Nov 11 15:34:23 2016 +0100
+
+    new file and list change
+
+ list.html   | 1 +
+ s14179.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 50e80227620cad7a53f8c5997460ab262f966c66
+Author: Bartosz Palmi <Bartosz Palmi>
+Date:   Wed Nov 9 01:17:13 2016 +0100
+
+    's9469'
+
+ list.html  |  1 +
+ s9469.html | 10 ++++++++++
+ 2 files changed, 11 insertions(+)
+
+commit 7e101d8063212ce31bc942295c928d8e0bab5b0a
+Author: s13781 <s13781@pja.edu.pl>
+Date:   Tue Nov 8 20:18:37 2016 +0100
+
+    s13781
+
+ list.html   | 1 +
+ s13781.html | 7 +++++++
+ 2 files changed, 8 insertions(+)
+
+commit 9e4b64403c4b8aa3ebe6e4bab58ce33496131f92
+Author: s13782 <s13782@pja.edu.pl>
+Date:   Tue Nov 8 19:57:08 2016 +0100
+
+    s13782
+
+ list.html   |  2 ++
+ s13782.html | 13 +++++++++++++
+ 2 files changed, 15 insertions(+)
+
+commit 474d2530de090a701b62ef658d79e94aaa0d897e
+Author: Ewa Przybylska <s14129@pjwstk.edu.pl>
+Date:   Sun Oct 30 15:30:45 2016 +0100
+
+    change list
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a4335a1332f2a8196a7edf80c87ff0e5dc0d0148
+Author: Ewa Przybylska <s14129@pjwstk.edu.pl>
+Date:   Sun Oct 30 15:30:23 2016 +0100
+
+    add new file
+
+ s14129.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 6063c0986e7061e99424525c4306fa4803f609e7
+Author: Ewa Przybylska <s14129@pjwstk.edu.pl>
+Date:   Sun Oct 30 15:27:59 2016 +0100
+
+    change list.html
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1b662b32f6f11baa54f4814403a5c156129e7d56
+Author: Krzysztof Zabawa <s13931@pjwstk.edu.pl>
+Date:   Sun Oct 30 15:16:55 2016 +0100
+
+    new version!!!
+
+ list.html   | 2 +-
+ s13931.html | 8 ++++++++
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+
+commit 48f602f34fd3b884cc35b626a3577275efa587bc
+Merge: d67def0 1bcd8ce
+Author: Paulina Grabowska <s14693@pjwstk.edu.pl>
+Date:   Sun Oct 30 15:07:35 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit d67def052d06308c79b7c6a239b815e56a737842
+Author: Paulina Grabowska <s14693@pjwstk.edu.pl>
+Date:   Sun Oct 30 15:05:19 2016 +0100
+
+    s14693
+
+ list.html   | 1 +
+ s14693.html | 3 +++
+ 2 files changed, 4 insertions(+)
+
+commit 1bcd8ce516de0a75edba12e86cdb403f0474eb22
+Author: s14139 <s14139@pjwstk.edu.pl>
+Date:   Sun Oct 30 15:00:33 2016 +0100
+
+    added s14139 link to list
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3407b8fe235d5ecb2bb5876c79891d6eb017bd64
+Author: s14139 <s14139@pjwstk.edu.pl>
+Date:   Sun Oct 30 14:58:36 2016 +0100
+
+    s14139 contact info added
+
+ s14139.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f1fa89b7e42673efdf7a274ec5133fce1a72512b
+Author: Piotr Kołodziejczak <s7367@pjwstk.edu.pl>
+Date:   Sun Oct 30 14:49:51 2016 +0100
+
+    KWZ s7367
+
+ list.html  | 1 +
+ s7367.html | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit fe19d5311dbff2066d94bdebed2029e77f47d76c
+Merge: 0be0b09 dda6be6
+Author: Gwidon Skonieczny <gwidon.skonieczny@gmail.com>
+Date:   Sun Oct 30 13:23:32 2016 +0100
+
+    s0194
+
+commit 0be0b093d9979f67e63eb2676eab73c7c3d61497
+Author: Gwidon Skonieczny <gwidon.skonieczny@gmail.com>
+Date:   Sun Oct 30 13:20:33 2016 +0100
+
+    s0194
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2c82f234a47b07fb815c59389f8c33a406c47ff9
+Author: Gwidon Skonieczny <gwidon.skonieczny@gmail.com>
+Date:   Sun Oct 30 13:19:32 2016 +0100
+
+    s0194
+
+ s0194.html | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit dda6be6a125193ef644e3a0ad2f81d8b1dae9651
+Merge: cdfa2cc d378472
+Author: lciechomski <lciechomski@bluesoft.net.pl>
+Date:   Sun Oct 30 13:19:12 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit d3784722c840decc0de7138ada672fd9a1c39d74
+Merge: d522504 50af4dc
+Author: s8482 <s8482@pjwstk.edu.pl>
+Date:   Sun Oct 30 13:16:38 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 50af4dc4aecdb3607ad49a704a0d7d4d001d9d56
+Merge: e43f079 24225f7
+Author: Paweł Skowron <s13986@pjwstk.edu.pl>
+Date:   Sun Oct 30 13:15:16 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit d522504dcc00082702fef249804d128eaf258633
+Author: s8482 <s8482@pjwstk.edu.pl>
+Date:   Sun Oct 30 13:14:17 2016 +0100
+
+    'nowy'
+
+ s8482.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 24225f7264afdb44dbddec7a5aefb2d1b0ef9884
+Merge: 308f86a 630bd1d
+Author: Lukasz Wachnik <lukasz.wachnik@rb.com>
+Date:   Sun Oct 30 13:14:02 2016 +0100
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       list.html
+
+commit e43f079c0fb7d58a1c0b90476d89dd876ad68034
+Merge: f648497 630bd1d
+Author: Paweł Skowron <s13986@pjwstk.edu.pl>
+Date:   Sun Oct 30 13:14:00 2016 +0100
+
+    Paweł Skowron modyfikacja pliku po raz drugi list.html
+
+commit cdfa2cc437fd15b148a988fecbd1eddf2d89beef
+Author: lciechomski <lciechomski@bluesoft.net.pl>
+Date:   Sun Oct 30 13:12:56 2016 +0100
+
+    s14639
+
+ list.html   | 1 +
+ s14639.html | 3 +++
+ 2 files changed, 4 insertions(+)
+
+commit 308f86a183319f14da1736479666c0fe261dbbdc
+Author: Lukasz Wachnik <lukasz.wachnik@rb.com>
+Date:   Sun Oct 30 13:11:37 2016 +0100
+
+    Added s9391
+
+ list.html  | 3 ++-
+ s9391.html | 5 +++++
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+
+commit f6484979766a6de239969447fd7bc2012491a43b
+Author: Paweł Skowron <s13986@pjwstk.edu.pl>
+Date:   Sun Oct 30 13:10:46 2016 +0100
+
+    Paweł Skowron modyfikacja pliku list.html
+
+ list.html   | 1 +
+ s13986.html | 6 ++++++
+ 2 files changed, 7 insertions(+)
+
+commit 630bd1d899ca0543c9c91625dc53d952444e149d
+Merge: f7669a0 c43488b
+Author: Alex Ilushyk <alex.ilushyk@lamoda.pl>
+Date:   Sun Oct 30 13:08:33 2016 +0100
+
+    merge
+
+commit c43488b5ce9e657feb8474af079d552f10b44b70
+Author: Michał Leszko <s9680@pjwstk.edu.pl>
+Date:   Sun Oct 30 13:02:50 2016 +0100
+
+    commit message
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a19cdbd17f3917f3b1565adbba894fe9a1c3e2e6
+Author: Michał Leszko <s9680@pjwstk.edu.pl>
+Date:   Sun Oct 30 13:01:07 2016 +0100
+
+    commit message
+
+ s9680.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 7445dc8358a377cb19d0b183e86f3a4d9d711d98
+Merge: 43fad93 041a697
+Author: Łukasz Siergiej <s9571@pjwstk.edu.pl>
+Date:   Sun Oct 30 12:58:05 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 041a6975107a69c65606e2d6afe790ec296c9ef7
+Merge: c3c3c60 5edf7ab
+Author: Szymon Gil <s14609@pjwstk.edu.pl>
+Date:   Sun Oct 30 12:55:36 2016 +0100
+
+    commit s14609
+
+commit c3c3c608845b89b5aca5ec464eb4a895c695140f
+Author: Szymon Gil <s14609@pjwstk.edu.pl>
+Date:   Sun Oct 30 12:54:28 2016 +0100
+
+    Commit s14609
+
+ list.html   |  1 +
+ s14609.html | 13 +++++++++++++
+ 2 files changed, 14 insertions(+)
+
+commit f7669a08a6fbe37b63f5fa40cb9f7e906579aaf9
+Author: Alex Ilushyk <alex.ilushyk@lamoda.pl>
+Date:   Sun Oct 30 12:53:24 2016 +0100
+
+    czwiczenia git s14798
+
+ list.html   |  1 +
+ s14798.html | 12 ++++++++++++
+ 2 files changed, 13 insertions(+)
+
+commit 5edf7ab3ff8ceda14e5950757a81c43f2fa7b6d8
+Author: Dawid Tokarzewski <s14544@pjwstk.edu.pl>
+Date:   Sun Oct 30 12:49:48 2016 +0100
+
+    Dawid Tokarzewski
+
+ list.html   | 1 +
+ s14544.html | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 43fad934df4a2f1d9c55ceea554b882f0bc00aef
+Author: Łukasz Siergiej <s9571@pjwstk.edu.pl>
+Date:   Sun Oct 30 12:47:41 2016 +0100
+
+    commit s9571
+
+ s9571.html | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit e95d90379d15e999c2e6e49f580ddf64eb77a16c
+Author: maciejkaminski <maciej.kaminski.gdansk@gmail.com>
+Date:   Sun Oct 23 22:38:06 2016 +0200
+
+    s9274 commit
+
+ list.html  | 1 +
+ s9274.html | 3 +++
+ 2 files changed, 4 insertions(+)
+
+commit 08c10f8f5700bc04fe625ef267d8c841d7aee186
+Author: Piotr Zaborowski <piotrzaborow@users.noreply.github.com>
+Date:   Sat Jul 2 00:14:12 2016 +0200
+
+    Delete s9549.html
+
+ s9549.html | 36 ------------------------------------
+ 1 file changed, 36 deletions(-)
+
+commit 742f0d4f39bd7e6fe52e17f6f8b13943a02af115
+Author: filip.malecki <filip.malecki@laboratorium.ee>
+Date:   Tue Jun 21 14:17:13 2016 +0200
+
+    created s10508.html and changed list.html
+
+ list.html    |  1 +
+ list.html~   | 30 ++++++++++++++++++++++++++++++
+ s10508.html  |  9 +++++++++
+ s10508.html~ |  9 +++++++++
+ 4 files changed, 49 insertions(+)
+
+commit 00a80d6a5be82704489fa1d119149fb654650914
+Author: Mateusz Bolbot <mateusz.bolbot@hpsupport.pl>
+Date:   Fri Apr 8 18:27:47 2016 +0200
+
+    s9574 czesc druga git
+
+ list.html  | 81 +++++++++++++++++++++++---------------------------------------
+ s9574.html | 14 +++++++++++
+ 2 files changed, 44 insertions(+), 51 deletions(-)
+
+commit 708e6e66095f0dc4d9ecf71687f76481ce870e9f
+Merge: 02f27ec d239ce3
+Author: MichalPycek <michalpycek@gmail.com>
+Date:   Fri Mar 18 19:06:44 2016 +0100
+
+    s9517_2
+
+commit d239ce32229b3fa831ef4a59eb73e0eed04b1e6f
+Merge: c6972e9 955abc7
+Author: s14628 <s14628@pjwstk.edu.pl>
+Date:   Fri Mar 18 19:03:52 2016 +0100
+
+    Panchenko Petro s14628
+
+commit 02f27ecdb07d8e53417fbc4f4856390032370361
+Author: MichalPycek <michalpycek@gmail.com>
+Date:   Fri Mar 18 19:00:53 2016 +0100
+
+    s9517
+
+ list.html  | 4 +++-
+ s9517.html | 1 +
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+
+commit c6972e988aee2a474778cdaecf284b70d2686cf4
+Author: s14628 <s14628@pjwstk.edu.pl>
+Date:   Fri Mar 18 19:00:37 2016 +0100
+
+    Panchenko Petro s14628
+
+ list.html   | 3 +++
+ s14628.html | 2 ++
+ 2 files changed, 5 insertions(+)
+
+commit 955abc7263ee97029f700ea27fd528f0d159bf75
+Merge: 18c5c08 bb61598
+Author: s14477 <s14477@pjwstk.edu.pl>
+Date:   Fri Mar 18 18:57:47 2016 +0100
+
+    Shashkov Oleksii s14477
+
+commit bb61598eb6d9908cf1c2fffafcf29039b2f5a4c1
+Author: unknown <s14611@LAB130-01.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:55:26 2016 +0100
+
+    message
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 18c5c08d5e9dcd97c811cce66486c9eaff186573
+Author: s14477 <s14477@pjwstk.edu.pl>
+Date:   Fri Mar 18 18:52:09 2016 +0100
+
+    Shashkov Oleksii s14477
+
+ list.html   | 2 ++
+ s14477.html | 2 ++
+ 2 files changed, 4 insertions(+)
+
+commit bb9e600898e4ca3e0ff826b3a933e2678bce1caf
+Author: unknown <s14611@LAB130-01.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:52:08 2016 +0100
+
+    Oleksandr Olijnyk
+
+ s14611.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit aeda4adc80852f1b875611cd74ebe357db84ef69
+Merge: 12a9522 a535e36
+Author: Sebastian <iseba22@icloud.com>
+Date:   Fri Mar 18 18:46:26 2016 +0100
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       list.html
+
+commit 12a9522e9bd1baea368b572bcffeba7d45d98b10
+Author: Sebastian <iseba22@icloud.com>
+Date:   Fri Mar 18 18:44:34 2016 +0100
+
+    zmodyfikuj
+    
+    zmodyfikuj plik list.html, dodając w nim link do swojego pliku html
+    (element a href) z opisem w postaci imienia i nazwiska
+
+ list.html | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit a535e36a5ce1c9f871b1e133bb4946e1eb6f1d20
+Author: alext22 <alext22@bigmir.net>
+Date:   Fri Mar 18 18:42:09 2016 +0100
+
+    adding link s14336.html
+    
+    Oleksii Tymoshchuk
+
+ list.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 8be57852779439a020a364de604745bb5e09d453
+Author: alext22 <alext22@bigmir.net>
+Date:   Fri Mar 18 18:40:15 2016 +0100
+
+    s14336.html
+    
+    s14336
+    Oleksii Tymoshchuk
+
+ s14336.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 980fe30f92541916582e406bd29fd8b7f7af3ef4
+Author: Sebastian <iseba22@icloud.com>
+Date:   Fri Mar 18 18:39:05 2016 +0100
+
+    s14435
+    
+    s14435
+
+ s14435.html | Bin 0 -> 278 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 12d7440a4ef2e847eeb899f3a111cf83eb4b3716
+Author: reiven14333 <s14333@pjwstk.edu.pl>
+Date:   Fri Mar 18 18:38:26 2016 +0100
+
+    Update list.html
+
+ list.html | 24 +++++++++++++-----------
+ 1 file changed, 13 insertions(+), 11 deletions(-)
+
+commit 642e9e93dd7e17442f0a8d9d1648cb6321f25985
+Merge: 7b2a47a 8a53cd4
+Author: unknown <s10448@LAB130-04.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:37:06 2016 +0100
+
+    dodane Agnieszka Gronwald
+
+commit 7b2a47a23ee4f50018a93d08a791cb398b78155b
+Merge: 7d85d22 9f02350
+Author: unknown <s10448@LAB130-04.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:35:50 2016 +0100
+
+    dodane Agnieszka Gronwald
+
+commit 8a53cd45cf513b93f302dadeb7c990abe56e8310
+Merge: e58b10d 9f02350
+Author: unknown <s9836@LAB130-02.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:35:21 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 7d85d224623f77f2524b8af7eb78db1c4be0dc68
+Author: unknown <s10448@LAB130-04.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:34:51 2016 +0100
+
+    dodane Agnieszka Gronwald
+
+ list.html   |  2 ++
+ s10448.html | 13 +++++++++++++
+ 2 files changed, 15 insertions(+)
+
+commit 9f02350ebb33e41c22cbb025138967b14e56f168
+Author: reiven14333 <s14333@pjwstk.edu.pl>
+Date:   Fri Mar 18 18:34:42 2016 +0100
+
+    Create s14333.html
+
+ s14333.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit e58b10dee2f1c2069d1c75cae03450c309d38c4f
+Merge: 692f104 a8afad8
+Author: unknown <s9836@LAB130-02.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:34:39 2016 +0100
+
+    Marek Surowski
+
+commit a8afad8f838828895efb596eea96a67cd801f77c
+Merge: 270ea31 32cd098
+Author: piotrzaborow <piotr.zaborowski@rubinowajaskinia.pl>
+Date:   Fri Mar 18 18:33:01 2016 +0100
+
+    Add s9549.html and changed list.html
+
+commit 692f104c318e5f8da1d5fff32f16fdd5b541be79
+Merge: eb6ae50 eaf911e
+Author: unknown <s9836@LAB130-02.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:31:04 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 270ea31e09cfddf5fc5f6a2a038895302e022744
+Author: piotrzaborow <piotr.zaborowski@rubinowajaskinia.pl>
+Date:   Fri Mar 18 18:31:01 2016 +0100
+
+    Add s9549.html and changed list.html
+
+ list.html  | 39 +--------------------------------------
+ s9549.html | 36 ++++++++++++++++++++++++++++++++++++
+ 2 files changed, 37 insertions(+), 38 deletions(-)
+
+commit 32cd0988f4019b1b107a9778faff974ad4ff28de
+Merge: ba5cb54 eaf911e
+Author: Damian Karpiński <s10594@pjwstk.edu.pl>
+Date:   Fri Mar 18 18:31:00 2016 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit ba5cb54e5382424a9728a4a219a5cda9d95d3b95
+Author: Damian Karpiński <s10594@pjwstk.edu.pl>
+Date:   Fri Mar 18 18:30:53 2016 +0100
+
+    KWZ Damian Karpiński
+
+ list.html   | 2 ++
+ s10594.html | 2 ++
+ 2 files changed, 4 insertions(+)
+
+commit eb6ae50cd29f190c7d52f8699849f7d7601327a9
+Author: unknown <s9836@LAB130-02.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:28:24 2016 +0100
+
+     Please enter the commit message for your changes. Lines starting
+     with '#' will be ignored, and an empty message aborts the commit.
+    
+     Committer: unknown <s9836@LAB130-02.pjwstk.edu.pl>
+    
+     On branch master
+     Your branch is up-to-date with 'origin/master'.
+    
+     Changes to be committed:
+            modified:   list.html
+     new file:   s9836.html
+
+ list.html  |  2 ++
+ s9836.html | 13 +++++++++++++
+ 2 files changed, 15 insertions(+)
+
+commit eaf911e3297adecc6d04d5465e67fe835a22f4bd
+Author: unknown <s14863@LAB130-05.pjwstk.edu.pl>
+Date:   Fri Mar 18 18:22:37 2016 +0100
+
+    Add Krzysztof Skorupka - s14863
+
+ list.html   | 4 +++-
+ s14863.html | 5 +++++
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+
+commit 127c757376790a25ca01c25112e51236a86cc771
+Author: unknown <s9347@LAB230-08.pjwstk.edu.pl>
+Date:   Fri Apr 10 19:29:36 2015 +0200
+
+    a
+
+ list.html  | 3 ++-
+ s9347.html | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit c05cfe254103482047f45933a9dbbf29fc6ac67b
+Author: Marcin Kornacki <s9357@pjwstk.edu.pl>
+Date:   Fri Mar 27 19:04:57 2015 +0100
+
+    asdf
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 29142419bdaec369cc22640e9082e4a1ba4aca9c
+Merge: 3c4de6d d94e4d1
+Author: Marcin Kornacki <s9357@pjwstk.edu.pl>
+Date:   Fri Mar 27 19:02:35 2015 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+
+commit 3c4de6d6f0affaedf130f2123fda495615b029c7
+Author: Marcin Kornacki <s9357@pjwstk.edu.pl>
+Date:   Fri Mar 27 19:01:52 2015 +0100
+
+    dodane s9357
+
+ s9357.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d94e4d18ed8c5ded84f4ac0171af797f95acda88
+Author: unknown <s13353@LAB230-03.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:57:45 2015 +0100
+
+    dodalem plic
+
+ s13353.html | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit d1425b5868c15d7bb5b87a9395cd0eda5c9151cf
+Author: unknown <s13559@LAB230-14.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:53:54 2015 +0100
+
+    commit
+
+ list.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit d9a281311afb8bdd05ea02014cb7e8dde4f21282
+Merge: ef6db36 85c0e7d
+Author: unknown <s13559@LAB230-14.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:52:08 2015 +0100
+
+    Merge branch 'master' of https://github.com/Pietia1978/kwztutorial
+    
+    Conflicts:
+            list.html
+
+commit 85c0e7d3e21a37755645dfe2de720a709dda235a
+Merge: 2d3caa8 78aa3aa
+Author: unknown <s8273@LAB230-13.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:50:16 2015 +0100
+
+    'addingMyselfPlusConflicts'
+
+commit ef6db36a4b05246762cba9c927dba240f5125858
+Author: unknown <s13559@LAB230-14.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:50:04 2015 +0100
+
+    commit
+
+ list.html   | 4 +++-
+ s13559.html | 6 ++++++
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+
+commit 78aa3aa44b777de789a21a57ca52d76785a61bfc
+Author: s13353 <skorpions2000@ya.ru>
+Date:   Fri Mar 27 18:48:45 2015 +0100
+
+    Update list.html
+
+ list.html | 24 +++++++++++++-----------
+ 1 file changed, 13 insertions(+), 11 deletions(-)
+
+commit 2d3caa8d73e38c477833ee8c4d75803a2b24a3f1
+Merge: d4743e6 5fb8de4
+Author: unknown <s8273@LAB230-13.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:48:18 2015 +0100
+
+    'addingMyselfPlusConflicts'
+
+commit d4743e6a0d1f7f34330e6c00ba4268ac8acb60e5
+Author: unknown <s8273@LAB230-13.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:45:16 2015 +0100
+
+    'addingMyself'
+
+ list.html  | 3 ++-
+ s8273.html | 0
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 5fb8de47ad86f8fcc0bd65769fe9457e909e4eef
+Merge: 7f7f306 bad1940
+Author: CezaryGoralski <s9670@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:44:39 2015 +0100
+
+    Merge https://github.com/Pietia1978/kwztutorial
+
+commit 7f7f30638965334a39c4a5d85ec0555f866e961a
+Merge: cf3181b 6301aaa
+Author: CezaryGoralski <s9670@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:43:56 2015 +0100
+
+    mergev2
+
+commit bad1940e9e289399977a8a9d6ae17e2e542d4f1a
+Merge: 2f1c1fb 6301aaa
+Author: s9653 <s9653@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:43:12 2015 +0100
+
+    s9653
+
+commit cf3181bf235060b49fb5b4c543d7e57aa66f1264
+Merge: 081660f 9986aff
+Author: CezaryGoralski <s9670@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:43:12 2015 +0100
+
+    mergev2
+
+commit 6301aaad29f9e3ecfdbe512e905ca8be03008ffe
+Merge: 4f04c85 9986aff
+Author: MPaszkiewicz <s9394@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:42:13 2015 +0100
+
+    asf
+
+commit 081660f8c5d854596c629f0b4247462800230603
+Merge: 1ff5554 736660a
+Author: CezaryGoralski <s9670@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:41:16 2015 +0100
+
+    merge
+
+commit 4f04c856966808a33a09299a9f4e28238a6ac6b9
+Merge: 0a0023f 736660a
+Author: MPaszkiewicz <s9394@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:41:14 2015 +0100
+
+    asd
+
+commit 9986affc62cceeb17cdc38917d99a9f723f0322b
+Author: s9699 <s9699@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:40:49 2015 +0100
+
+    Update list.html
+
+ list.html | 12 +++++++-----
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+
+commit 1ff555469fa6b699777e1eba985e035665ac027e
+Author: CezaryGoralski <s9670@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:38:53 2015 +0100
+
+    cezary_goralski_kwzv2
+
+ s9670.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 2f1c1fb97332da278accf49b417f46ea4bccccb4
+Author: unknown <s9653@LAB230-20.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:38:52 2015 +0100
+
+    s9653
+
+ list.html  | 4 +++-
+ s9653.html | 6 ++++++
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+
+commit 736660ac094616f6867ae85ed5b8d25ffe026ca6
+Author: unknown <s9685@LAB230-10.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:36:11 2015 +0100
+
+    Commit wykonany
+
+ list.html  | 4 +++-
+ s9685.html | 2 ++
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+
+commit 024b06596bde4417b27307be71c5a4037ff2667f
+Author: unknown <s9670@LAB230-12.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:35:53 2015 +0100
+
+    cezary_goralski_kwz
+
+ list.html  | 4 +++-
+ s9670.html | 2 ++
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+
+commit 0a0023fafa9fe03ce7045fc3162aedf5f5023d8e
+Author: unknown <S9394@LAB230-11.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:35:50 2015 +0100
+
+    mpaszkiewicz
+
+ list.html  |   4 +-
+ s9394.html | 704 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 707 insertions(+), 1 deletion(-)
+
+commit a36db8cd4937ee5794f1bbdc522cb944679c775e
+Merge: ad3d73d 005eb6b
+Author: Maciej Suliński <s9476@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:30:10 2015 +0100
+
+    merge
+
+commit 005eb6b16e3cb7c1c1ad0ed58e2fe7b7450f89d5
+Author: s13557 <s13557@LAB230-09.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:25:48 2015 +0100
+
+    s13557 list
+
+ list.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit ad3d73d786da90d886cae0ceaa46084049005c90
+Author: Maciej Suliński <s9476@pjwstk.edu.pl>
+Date:   Fri Mar 27 18:24:21 2015 +0100
+
+    s9476 Maciek Suliński
+
+ list.html  | 2 ++
+ s9476.html | 6 ++++++
+ 2 files changed, 8 insertions(+)
+
+commit 69dd7f14d93e1bcd7727e33ce4152d19566b66ac
+Author: s13557 <s13557@LAB230-09.pjwstk.edu.pl>
+Date:   Fri Mar 27 18:24:17 2015 +0100
+
+    s13557
+
+ s13557.html | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 37947620a9b0fe56619138cac8ca1f6ae0c2867e
+Author: Bartosz Krasiński <bartosz@krasinski.biz>
+Date:   Fri Mar 27 17:24:12 2015 +0100
+
+    Add Krasinski
+
+ list.html  | 4 +++-
+ s9520.html | 6 ++++++
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+
+commit 956ddcf22f5848b48a8fe3b5f122ff6dba12a24b
+Author: Krzysiek <krzysiek@orfinger.com>
+Date:   Fri Mar 27 14:13:23 2015 +0100
+
+    s10292
+
+ list.html   | 2 ++
+ s10292.html | 6 ++++++
+ 2 files changed, 8 insertions(+)
+
+commit c60b7cc132ea38c1bbb297a590f65f355813e6c7
+Author: Tomasz Pieciukiewicz <tomasz.pieciukiewicz@gmail.com>
+Date:   Fri Mar 27 10:55:07 2015 +0100
+
+    added myself
+
+ list.html   | 6 ++++++
+ pietia.html | 6 ++++++
+ 2 files changed, 12 insertions(+)
+
+commit 2fc2f671c3d122b947ab584285f4315c455624bb
+Author: Pietia1978 <tomasz.pieciukiewicz@gmail.com>
+Date:   Fri Mar 27 10:45:42 2015 +0100
+
+    Initial commit
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
