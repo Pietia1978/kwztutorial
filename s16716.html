@@ -1,0 +1,26 @@
+<!-- Patryk Stradomski s16716 - cyberpunk scene using a-frame. 2020 -->
+<html>
+  <head>
+    <script src="https://aframe.io/releases/0.9.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-environment-component@1.1.0/dist/aframe-environment-component.min.js"></script>
+	  <script src="https://rawgit.com/takahirox/aframe-rain/master/build/aframe-rain.min.js"></script>
+  </head>
+  <body>
+    <a-scene rain>
+      <a-entity position="0 2.25 -15" particle-system="color: #EF0000,#44CC00"></a-entity>
+	  <a-entity environment="preset: contact;
+	groundColor: #1B1E6B;
+	dressing: towers;
+	dressingAmount: 30;
+	grid: 1x1";
+	gridColor: #ffffff></a-entity>
+      <a-box src="https://sc02.alicdn.com/kf/HTB12K55SFXXXXcbaXXXq6xXFXXXm/Nice-fashionable-aluminium-window-curtain-wall.jpg" repeat"100 100 100"
+	  position="2 0.5 -5" height="5" rotation="0 45 0" scale=" 2 2 2"></a-box>
+      <a-box src="https://sc02.alicdn.com/kf/HTB12K55SFXXXXcbaXXXq6xXFXXXm/Nice-fashionable-aluminium-window-curtain-wall.jpg" repeat"100 100 100"
+	  position="-1 0.5 -3" height="5" rotation="0 45 0" ></a-box>
+	  <a-plane src="https://i.imgur.com/mck0cBL.jpg" position = "-1 0.5 -1" rotation = "-90 0 0" width = "10" height="30" > </a-box>
+	  <a-light type = "point" position = "2 4 4" color = "#FC7CEB"></a-light>
+	  <a-light type = "ambient" color= "#1D1F2F"></a-light>
+    </a-scene>
+  </body>
+</html>
